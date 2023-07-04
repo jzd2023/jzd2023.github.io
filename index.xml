@@ -1,0 +1,1590 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2023 | Jzd</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>2023 | Jzd</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2023</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2023 | Jzd</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Example Page 1</title>
+      <link>/courses/example-copy/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/example-copy/example1/</guid>
+      <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 1</title>
+      <link>/courses/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/example/example1/</guid>
+      <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>/courses/example-copy/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/example-copy/example2/</guid>
+      <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>/courses/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/example/example2/</guid>
+      <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>/talk/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>0618-企业杠杆操纵</title>
+      <link>/post/0618-%E4%BC%81%E4%B8%9A%E6%9D%A0%E6%9D%86/</link>
+      <pubDate>Sun, 18 Jun 2023 21:35:59 +0800</pubDate>
+      <guid>/post/0618-%E4%BC%81%E4%B8%9A%E6%9D%A0%E6%9D%86/</guid>
+      <description>&lt;p&gt;第35期 我国企业杠杆操纵的动机、手段及经济后果&lt;/p&gt;
+&lt;p&gt;陆正飞
+
+&lt;a href=&#34;https://www.gsm.pku.edu.cn/thought_leadership/info/1007/1270.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;url&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;一引言&#34;&gt;一、引言&lt;/h1&gt;
+&lt;p&gt;　　自本世纪初以来，我国企业杠杆水平总体上处于不断攀升的过程之中。以A股上市公司（剔除了金融行业，下同）为例，其杠杆水平从2001年的47.17%上升至2016年的60.37%。 杠杆水平的不断攀升，使得企业面临的债务风险持续增大。自2015年12月起，我国进入强制去杠杆阶段。实质性地去杠杆，要么是减少负债，要么是增加权益资本，要么既减少负债同时又增加权益资本。然而，对于高杠杆企业而言，往往既难以减少负债（除非忍痛卖资产），也难以增加权益资本（除非大幅提高股权融资成本），去杠杆之路异常艰难。为此，不少企业往往就进行杠杆操纵，虚降资产负债表中呈现的杠杆水平。&lt;/p&gt;
+&lt;h1 id=&#34;二杠杆操纵的主要动机&#34;&gt;二、杠杆操纵的主要动机&lt;/h1&gt;
+&lt;h2 id=&#34;一顺应政策导向满足监管要求&#34;&gt;（一）顺应政策导向，满足监管要求&lt;/h2&gt;
+&lt;p&gt;　　自2015年底开始，我国开始进入强制去杠杆阶段，在控制总杠杆率的前提下，把降低企业杠杆率作为重中之重，并于2016年发布了《国务院关于积极稳妥降低企业杠杆率的意见》（国发〔2016〕54号），要求切实降低企业杠杆率。2017年，我国政府将深化去杠杆作为防范和化解风险的抓手。2018年，我国政府又提出“结构性去杠杆”要求，五部委也联合发布了《2018年降低企业杠杆率工作要点》。为了顺应上述政策性要求，一些高杠杆且难以采取实质性措施去杠杆的企业，就有动机进行杠杆操纵，以降低显性杠杆水平。&lt;/p&gt;
+&lt;h2 id=&#34;二增强负债能力利用杠杆效应&#34;&gt;（二）增强负债能力，利用杠杆效应&lt;/h2&gt;
+&lt;p&gt;当资产负债表内的负债总额上升从而使得杠杆水平逐渐提高时，企业负债融资能力会逐渐下降，即表内负债会因受到不断增强的融资约束而难以继续增加，因此，为了能够获取更多的债务资金而享受更多的财务杠杆效应，企业就有动机运用各种手段进行杠杆操纵。&lt;/p&gt;
+&lt;h2 id=&#34;三降低融资成本满足债务契约&#34;&gt;（三）降低融资成本，满足债务契约&lt;/h2&gt;
+&lt;p&gt;随着企业杠杆水平的不断攀升，债权人要么选择不再给企业提供借款，要么设置严苛的债务契约条款，提高企业债务融资成本，甚至直接限制企业的债务水平不能超过一定标准。因此，杠杆水平较高的企业，就有动机通过杠杆操纵隐藏债务，降低显性杠杆水平，从而达到满足与债权人订立的债务契约和降低融资成本的目的。&lt;/p&gt;
+&lt;h2 id=&#34;四美化财务指标维护企业声誉&#34;&gt;（四）美化财务指标，维护企业声誉&lt;/h2&gt;
+&lt;p&gt;企业的杠杆水平越高，偿债能力越弱，面临的财务风险越大，企业的声誉必然受到负面影响。为了美化企业的财务指标，维护企业声誉，企业往往有动机通过将表内负债转移至表外等手段进行杠杆操纵。&lt;/p&gt;
+&lt;h2 id=&#34;五减少媒体关注避免重点监督&#34;&gt;（五）减少媒体关注，避免重点监督&lt;/h2&gt;
+&lt;p&gt;媒体常常会披露那些高杠杆水平的企业，尤其是那些在行业中杠杆水平位居前列的企业，以及因杠杆水平过高而受到证监会等监管部门重点监管甚至处罚的企业。因此，为了减少媒体关注，从而避免被重点监管，高杠杆企业就有动机进行杠杆操纵。&lt;/p&gt;
+&lt;h1 id=&#34;三杠杆操纵的常用手段&#34;&gt;三、杠杆操纵的常用手段&lt;/h1&gt;
+&lt;h2 id=&#34;一表外负债&#34;&gt;（一）表外负债&lt;/h2&gt;
+&lt;p&gt;表外负债，是指未在企业资产负债表中予以报告的负债。从我国企业实践来看，表外负债是企业杠杆操纵的最重要手段，具体包括以下几种情形：&lt;/p&gt;
+&lt;h3 id=&#34;1将租赁设计为经营租赁&#34;&gt;1.将租赁设计为“经营租赁”&lt;/h3&gt;
+&lt;p&gt;按照现行的《企业会计准则第21号——租赁》（CAS 21），租赁分为经营租赁和融资租赁，将实质上转移了与资产所有权有关的全部风险和报酬的租赁划分为融资租赁，并规定了融资租赁所应当满足的一系列条件，包括租赁的期限和租金额度比例等等；不满足以上条件的，则划分为经营租赁。对于承租人而言，融资租赁应在资产负债表中确认相应的资产和负债，从而会导致企业资产负债表体现的杠杆水平的上升；而经营租赁，与资产所有权相关的全部风险和报酬均未转移，承租人不需要在资产负债表中确认与该租赁有关的资产与负债。因此，将租赁业务设计为经营租赁，有助于降低承租人的杠杆水平。&lt;/p&gt;
+&lt;h3 id=&#34;2避免并表&#34;&gt;2.避免并表&lt;/h3&gt;
+&lt;p&gt;避免并表，是指企业管理层通过对投资于其他实体的权益投资的结构性安排，使得该企业不对其他实体形成“控制”而无需将其他实体纳入合并报表的合并范围，从而形成企业的表外负债。具体包括：&lt;/p&gt;
+&lt;h4 id=&#34;1避免合并结构化主体报表&#34;&gt;（1）避免合并结构化主体报表&lt;/h4&gt;
+&lt;p&gt;公司参与发起设立、管理和投资结构化主体的交易较为常见。根据现行企业会计准则的规定，当公司拥有对结构化主体的权力、享有可变回报，并且有能力运用对结构化主体的权力来影响其回报的金额时，应将该结构化主体纳入合并范围。实践中，为融资目的设立的结构化主体的杠杆水平往往较高，若将其报表合并，势必会推高公司杠杆水平，所以，企业就有动机通过避免合并结构化主体报表进行杠杆操纵，降低杠杆水平。&lt;/p&gt;
+&lt;h4 id=&#34;2避免合并清算中的子公司报表&#34;&gt;（2）避免合并清算中的子公司报表&lt;/h4&gt;
+&lt;p&gt;即将被清算或处于清算中的子公司往往处于资不抵债状态，杠杆水平较高，因此，有些公司对拟处置但尚未签署出售协议的子公司，以未实施控制、子公司已停产待注销、进入清算程序等为由，不将其纳入合并报表的合并范围，而是作为可供出售金融资产核算，以此降低公司合并报表杠杆水平。&lt;/p&gt;
+&lt;h3 id=&#34;3创新衍生金融工具&#34;&gt;3.创新衍生金融工具&lt;/h3&gt;
+&lt;p&gt;一方面，由于衍生金融工具的复杂性和不确定性，许多衍生金融工具仍然无法在企业的资产负债表中进行反映，从而形成表外融资。即使在表外进行了披露，衍生金融工具的复杂性决定了所披露信息的真实性、规范性都难以满足外部利益相关者的信息需求，而监管者也难以对企业的衍生金融工具信息披露进行有效监督。另一方面，衍生金融工具不断创新和日益复杂，相关准则的规定就会相对滞后，企业通过掉期、嵌入期权、复合期权、上限期权、下限期权等创新金融工具实现融资的，难以在企业的财务报告中进行有效的披露。&lt;/p&gt;
+&lt;h3 id=&#34;4隐瞒或有负债&#34;&gt;4.隐瞒或有负债&lt;/h3&gt;
+&lt;p&gt;“或有负债”可能导致经济利益流出，而由于其“可能性”判断的主观性以及表外负债监管的困难，使得有些公司“或有负债”的披露不够规范，甚至隐瞒“或有负债”而不予披露。&lt;/p&gt;
+&lt;h3 id=&#34;5其他表外负债&#34;&gt;5.其他表外负债&lt;/h3&gt;
+&lt;p&gt;企业进行杠杆操纵还可能采用以下表外负债手段：出售附有追索权的应收账款、售后资产回购、设立表外关联公司转嫁债务、项目融资、研究与开发安排、来料加工、商品代销、补偿贸易、附追索权的应付票据贴现等。&lt;/p&gt;
+&lt;h2 id=&#34;二名股实债&#34;&gt;（二）名股实债&lt;/h2&gt;
+&lt;p&gt;利用“名股实债”融资模式进行杠杆操纵，是指企业通过资金提供方以股权投资的方式获得所需资金，形式上成为企业的权益融资，而实际上采用附属或隐性合同（也称“抽屉协议”）等手段向资金提供方保证会以回购、第三方收购、对赌、定期分红等形式获得固定收益，保证资金提供方所提供资金能够有效退出企业从而实质上构成企业的债务融资，但又避免了在报表中被确认为负债（而是确认为所有者权益），从而降低企业杠杆水平的行为。实践中，名股实债杠杆操纵的具体手段主要包括：&lt;/p&gt;
+&lt;h3 id=&#34;1永续债&#34;&gt;1.永续债&lt;/h3&gt;
+&lt;p&gt;永续债为混合型债券工具，同时兼有“债性”和“股性”。永续债的一个特点是，首个约定期过后，若发行人选择续期，债券的利率将不断提升，即发行企业需要一直承担支付债券持有人利息的义务，因而具有“债”的性质，可以被列入债务工具；永续债另一项特点是，债券的持有人不能要求发行人偿还本金，虽然可以获得利息，但发放利息的时间可以由发行人决定，即债券发行人可以无限期推迟发放利息，即从法律意义上讲，赎不赎回、付不付息的主动权都掌握在发行人手中，因此，永续债就具有了“股”的性质，可以被列入权益工具。但在实践中，大多数企业的永续债发行条款设置为允许发行方递延利息支付和延期，符合权益工具的规定，从而在财务报表中被列入权益工具。&lt;/p&gt;
+&lt;h3 id=&#34;2债转股&#34;&gt;2.债转股&lt;/h3&gt;
+&lt;p&gt;对于高杠杆企业而言，为了减轻财务压力，往往有动机将银行的债权转为股权。而对于银行而言，为了减少潜在不良贷款规模与可能爆发的风险，也有动机将对企业的债权转为对企业的股权。实践中，企业和银行之间却可能签订“抽屉协议”对“债转股”提供必要保障，即明面上是“股权”，而实际上还是“债权”，但从资产负债表来看，就大大降低了企业杠杆水平，实现了通过明面上的“债转股”而达到杠杆操纵的目的。&lt;/p&gt;
+&lt;h3 id=&#34;3结构化主体投融资&#34;&gt;3.结构化主体投融资&lt;/h3&gt;
+&lt;p&gt;通常，公司会通过与其他金融中介机构投资设立结构化主体进行融资，获取其他金融中介机构和其他公司的股权资金。具体过程是：公司作为融资方，与其他金融中介机构签署相关合同投资设立资管计划、信托计划、私募股权基金或以上几种的多种嵌套工具的组合、合伙企业等结构化主体，再通过结构化主体吸纳其他公司或金融中介机构的股权投资，即作为融资方的公司以及作为投资方的其他公司和其他金融中介机构均为结构化主体的股东，但是这些股东的权责和承担的风险存在较大差异，作为融资方的公司往往会通过还本付息、项目分红、固定的到期收益、回购、预期收益的补足承诺、第三方收购、对赌协议、将投资方股权设置为优先级股权，并为优先级有限份额的退出提供流动性支持等信用增进措施，对作为投资方的其他公司和金融中介的股权提供保障承诺。可见，在通过结构化主体进行投融资的过程中，公司会存在杠杆操纵的行为，即将“债权”性资金确认为“股权”性资金，从而实现了对结构化主体的杠杆操纵。&lt;/p&gt;
+&lt;h2 id=&#34;三其他会计操纵手段&#34;&gt;（三）其他会计操纵手段&lt;/h2&gt;
+&lt;p&gt;除了上述，企业还可能采取其他会计手段进行杠杆操纵。例如：&lt;/p&gt;
+&lt;h3 id=&#34;1不适当的公允价值计量或估值&#34;&gt;1.不适当的公允价值计量或估值&lt;/h3&gt;
+&lt;h4 id=&#34;1投资性房地产转换为公允价值计量模式&#34;&gt;（1）投资性房地产转换为“公允价值”计量模式&lt;/h4&gt;
+&lt;p&gt;在房地产市场上行时，房地产企业可以通过将投资性房地产由“成本计量模式”向“公允价值计量模式”的转变，来增加投资性房地产的账面价值和所有者权益，从而达到降低企业杠杆水平的目的，即利用投资性房地产计量模式的转换进行杠杆操纵。&lt;/p&gt;
+&lt;h4 id=&#34;2不适当的公允价值估值&#34;&gt;（2）不适当的公允价值估值&lt;/h4&gt;
+&lt;p&gt;采用不适当的公允价值估值进行杠杆操纵，是指一切运用公允价值估值而增加企业资产、或向上操纵企业利润，从而降低企业杠杆水平的行为。例如，在就固定资产、无形资产、存货等进行减值测试时，企业会利用公允价值评估的复杂性和职业判断特性而高估资产价值，避免或减少计提减值准备，向上操纵企业利润，降低企业杠杆水平。&lt;/p&gt;
+&lt;h3 id=&#34;2不适当的研发支出资本化&#34;&gt;2.不适当的研发支出资本化&lt;/h3&gt;
+&lt;p&gt;通过不适当的研发支出资本化进行杠杆操纵，是指企业通过将研发支出中应当“费用化”的开发支出进行了“资本化”，增加了企业资产并增大了企业利润，从而降低企业杠杆水平的行为。&lt;/p&gt;
+&lt;h3 id=&#34;3不适当的折旧摊销与减值计提&#34;&gt;3.不适当的折旧（摊销）与减值计提&lt;/h3&gt;
+&lt;p&gt;通过少提资产折旧（摊销），增加资产账面价值，并向上操纵企业利润，最终降低企业杠杆水平。类似地，在对固定资产、无形资产、存货等进行资产减值计提时，利用会计估计时诸多“不确定性”，有意识地做出“有利”估计，高估资产的公允价值，以达到少提或不提资产减值准备的目的，从而增加当期利润，加大账面权益，降低杠杆水平。&lt;/p&gt;
+&lt;h1 id=&#34;四杠杆操纵的经济后果&#34;&gt;四、杠杆操纵的经济后果&lt;/h1&gt;
+&lt;h2 id=&#34;一粉饰财务状况误导信息使用者&#34;&gt;（一）粉饰财务状况，误导信息使用者&lt;/h2&gt;
+&lt;p&gt;杠杆操纵掩盖了企业过高的杠杆水平，隐瞒了企业的财务风险，可能导致企业外部投资者做出错误决策。杠杆操纵掩盖了其高杠杆水平，从而误导债权人以更低的融资成本、更宽松的契约条款出借资金。杠杆操纵隐瞒了企业的真实状况，可能会误导政府部门做出错误的资源配置决策，而监管机构也可能因此而对高风险的企业疏于监管。&lt;/p&gt;
+&lt;h2 id=&#34;二影响代理关系助长过度投资&#34;&gt;（二）影响代理关系，助长过度投资&lt;/h2&gt;
+&lt;p&gt;一方面，从股东/经理与债权人的代理冲突角度来看，杠杆操纵会影响他们之间的代理关系，助长股东/经理的过度投资行为。另一方面，从股东与经理的代理冲突角度来看，杠杆操纵也会影响他们之间的代理关系，助长经理的过度投资行为。&lt;/p&gt;
+&lt;h2 id=&#34;三影响宏观决策恶化资源配置&#34;&gt;（三）影响宏观决策，恶化资源配置&lt;/h2&gt;
+&lt;p&gt;杠杆操纵，粉饰了杠杆水平，掩盖了企业真实财务情况。杠杆操纵下的微观企业数据可能会对宏观经济调控与政策制定产生一定的误导作用，从而影响宏观经济决策的准确性和国家宏观经济政策的有效性，甚至导致社会资源配置效率的下降。&lt;/p&gt;
+&lt;h2 id=&#34;四误导信用评级引发信用危机&#34;&gt;（四）误导信用评级，引发信用危机&lt;/h2&gt;
+&lt;p&gt;杠杆水平是评级机构对企业进行信用评级所依据的重要指标之一。企业若进行了杠杆操纵，那么评级机构在对企业进行信用评级时，可能很难识别出企业由于杠杆操纵所导致的不真实部分的财务数据，因而，其所出具的信用评级可能存在较大的偏颇。一旦投资者和债权人依赖评级机构的信用评级进行投资决策而遭遇重大损失时，就会引发严重的信用危机。&lt;/p&gt;
+&lt;h2 id=&#34;五催生兜底行为增加融资成本&#34;&gt;（五）催生兜底行为，增加融资成本&lt;/h2&gt;
+&lt;p&gt;企业进行杠杆操纵的动机之一就是降低企业的债务融资成本。但是，企业往往还会运用各种名股实债手段。在名股实债融资过程中，企业往往需要向出资人进行刚性兑付承诺，包括保本承诺、支付固定性回报、到期回购、设置偿债优先级等，而这类出资人往往因为承担了更高的风险而要求更高的投资回报，反而会增加企业的融资成本。&lt;/p&gt;
+&lt;h1 id=&#34;五政策建议&#34;&gt;五、政策建议&lt;/h1&gt;
+&lt;h2 id=&#34;一企业角度&#34;&gt;（一）企业角度&lt;/h2&gt;
+&lt;h3 id=&#34;1认清杠杆操纵避免不良后果&#34;&gt;1.认清杠杆操纵，避免不良后果&lt;/h3&gt;
+&lt;p&gt;企业应当充分认识杠杆操纵的不良经济后果，尽可能地减少杠杆操纵行为。例如，尽管永续债的发行为企业带来了全新的融资渠道，也能使企业在支付利息和本金当中掌握主动权，但大多数企业发行永续债采用的是“2+N”、“3+N”、“5+N”等形式，这就意味着如果企业没有在前期固定年限中支付利息，未来面临的就是利率的重置及信用问题。而在这个阶段，企业将面临巨大的利息支付压力，所以，企业在将永续债作为融资途径时应当充分了解其潜在的负债风险。&lt;/p&gt;
+&lt;h3 id=&#34;2强化风险意识完善内控制度&#34;&gt;2.强化风险意识，完善内控制度&lt;/h3&gt;
+&lt;p&gt;一方面，企业要不断地强化其风险管理意识，防范杠杆操控风险，强化企业风险管理对战略规划和提升绩效的重要意义，因此，企业应当根据COSO风险管理框架，设计企业风险管理制度，以企业使命、愿景和核心价值为出发点，将风险管理嵌入企业管理业务活动和核心价值链，以达到提升企业价值；另一方面，企业要以会计准则和相关法律规定作为依据，制定包括企业内部会计制度、财务制度、内部控制制度等在内的一系列相关规范制度，对企业的各种管理行为进行规范，明确表内负债与表外负债的来龙去脉，加强对企业负债尤其是表外负债的管理和风险控制，测算表外负债合理区间，并将表外负债控制在合理范围之内。&lt;/p&gt;
+&lt;h3 id=&#34;3提升资本管理能力降低杠杆风险&#34;&gt;3.提升资本管理能力，降低杠杆风险&lt;/h3&gt;
+&lt;p&gt;企业应当不断完善其资本管理机制，提升资本管理能力。一方面，企业应通过提高董事会治理能力、企业资本运营能力、财务决策能力、成本费用控制能力等，提升公司治理水平和盈利能力，不断通过利润留存补充资本，以降低企业杠杆风险；另一方面，企业不应当通过杠杆操纵来影响资本结构，而是应该加强债务管理，设置合理债务偿还制度，保证债务的及时偿还和企业资金流的连续性，根据需要而不断扩大股权融资，降低企业杠杆水平，控制杠杆风险。&lt;/p&gt;
+&lt;h2 id=&#34;二监管角度&#34;&gt;（二）监管角度&lt;/h2&gt;
+&lt;h3 id=&#34;1加强监管制度加大处罚力度&#34;&gt;1.加强监管制度，加大处罚力度&lt;/h3&gt;
+&lt;p&gt;企业能够进行杠杆操纵，很重要的一个原因就是绕过政府的监管以及合同条约的限制而更大限度地筹集资金，因此，一方面，要以立法的形式对企业的杠杆操纵融资业务进行监管，并设置企业杠杆水平预警线与监管线，明确重点关注与重点监管的杠杆水平线；另一方面，相关的法律法规和监管规定，不仅需对企业的融资行为进行监控，还应当对金融机构实施监管，发挥金融机构对企业杠杆水平的约束。&lt;/p&gt;
+&lt;p&gt;在加强监管的同时，还要加大处罚力度。一方面，应该强化表外负债信息披露的监管、加快表外负债表内化的制度建设与监管，对于杠杆操纵融资行为较多的行业和企业、信息披露不充分的企业实行重点监管，加大对违反相关监管制度而运用“表外负债”、“明股实债”等进行杠杆操纵企业的处罚力度；另一方面，要通过有效的监管制度，识别企业进行杠杆操纵的各种会计计量手段，加大对违反会计准则、会计法等相关规范行为的处罚力度。&lt;/p&gt;
+&lt;h3 id=&#34;2完善会计准则提高审计质量&#34;&gt;2.完善会计准则，提高审计质量&lt;/h3&gt;
+&lt;p&gt;企业能够进行杠杆操纵的一个重要原因，就是利用会计准则的自由裁量权进行会计确认、计量和披露，因此，需要通过不断完善企业会计准则来弥补现行准则的缺陷，例如，可以通过会计准则的修订，将一些表外融资表内化处理，并规范如何在报表附注中予以披露，以提高财务报告的信息质量。与此同时，要积极发挥外部审计的监督作用，不断提高审计质量，督促企业更好地执行企业会计准则，规范企业会计确认、计量与披露行为，切实提高企业会计信息的质量。&lt;/p&gt;
+&lt;h3 id=&#34;3优化配套政策提升降杠杆能力&#34;&gt;3.优化配套政策，提升降杠杆能力&lt;/h3&gt;
+&lt;p&gt;我国政府应当进一步优化相关配套政策与措施，提升企业降杠杆能力，从而减少企业杠杆操纵行为。一是，应当建立和完善各种融资平台与融资机制，建立有机联动机制，帮助企业切实解决股权融资需求，提升降杠杆能力；二是，应当稳妥给予“降杠杆”企业融资支持与监管支持，引导资金尤其是股权资金更多地流向“降杠杆”行业和企业，对能够“降杠杆”的债转股、永续债、重大资产重组等资本市场操作，在坚持市场化原则下提供适当监管政策支持，从而帮助企业提升“降杠杆”能力；三是，应当加强会计与审计业务指导，帮助企业提高财会人员业务能力与专业素养，减少企业的杠杆操纵行为，帮助会计师事务所提高审计人员职业能力与规则意识，识别和防范企业的杠杆操纵行为；四是，应当建立和完善各种互助“智库”，帮助企业规范其公司治理行为，提高企业治理能力。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>0516_Hexo</title>
+      <link>/post/0516-hexo/</link>
+      <pubDate>Sat, 17 Jun 2023 15:33:09 +0800</pubDate>
+      <guid>/post/0516-hexo/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://jzd0409.github.io/2023/05/30/%E5%8D%9A%E5%AE%A2%E5%90%8D%E7%A7%B0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2023-05-30&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;博客名称httpsjzd0409githubio20230530e58d9ae5aea2e5908de7a7b0&#34;&gt;
+&lt;a href=&#34;https://jzd0409.github.io/2023/05/30/%E5%8D%9A%E5%AE%A2%E5%90%8D%E7%A7%B0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;博客名称&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jzd0409.github.io/2023/05/30/hello-world/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2023-05-30&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;hello-mybloghttpsjzd0409githubio20230530hello-world&#34;&gt;
+&lt;a href=&#34;https://jzd0409.github.io/2023/05/30/hello-world/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hello Myblog!&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;httpsjzd0409githubioe4b880e994aee68ea8e98081-一键推送一键推送&#34;&gt;
+&lt;a href=&#34;https://jzd0409.github.io/#%E4%B8%80%E9%94%AE%E6%8E%A8%E9%80%81&#34; title=&#34;一键推送&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;一键推送&lt;/h2&gt;
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;pre&gt;&lt;span&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span&gt;hexo cl &amp;amp;&amp;amp; hexo g &amp;amp;&amp;amp; hexo d&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&#34;httpsjzd0409githubioe6b7bbe58aa0e6a087e7adbee9a1b5e99da2-添加标签页面添加标签页面&#34;&gt;
+&lt;a href=&#34;https://jzd0409.github.io/#%E6%B7%BB%E5%8A%A0%E6%A0%87%E7%AD%BE%E9%A1%B5%E9%9D%A2&#34; title=&#34;添加标签页面&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;添加标签页面&lt;/h2&gt;
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;pre&gt;&lt;span&gt;1&lt;/span&gt;&lt;br&gt;&lt;span&gt;2&lt;/span&gt;&lt;br&gt;&lt;span&gt;3&lt;/span&gt;&lt;br&gt;&lt;span&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span&gt;hexo new page tag&lt;/span&gt;&lt;br&gt;&lt;span&gt;hexo new page category&lt;/span&gt;&lt;br&gt;&lt;span&gt;&lt;span&gt;cd&lt;/span&gt; &lt;span&gt;source&lt;/span&gt;/tag&lt;/span&gt;&lt;br&gt;&lt;span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&#34;httpsjzd0409githubioe585ace5bc8f-公式公式&#34;&gt;
+&lt;a href=&#34;https://jzd0409.github.io/#%E5%85%AC%E5%BC%8F&#34; title=&#34;公式&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;公式&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;httpsjzd0409githubiotitle-mathjax-testdate-2019-07-05-21-27-59tags-mathjax-true-e58aa0e585a5e8bf99e4b8aae5a3b0e6988eefbc8ce8bf99e7af87e69687e7aba0e5b0b1e4bc9ae5bc80e590afmathjaxe6b8b2e69f93-title-mathjax-testdate-2019-07-05-212759tagsmathjax-true--加入这个声明这篇文章就会开启mathjax渲染title-mathjax-test&#34;&gt;
+&lt;a href=&#34;https://jzd0409.github.io/#title-MathJax-Testdate-2019-07-05-21-27-59tags-mathjax-true-%E5%8A%A0%E5%85%A5%E8%BF%99%E4%B8%AA%E5%A3%B0%E6%98%8E%EF%BC%8C%E8%BF%99%E7%AF%87%E6%96%87%E7%AB%A0%E5%B0%B1%E4%BC%9A%E5%BC%80%E5%90%AFmathjax%E6%B8%B2%E6%9F%93&#34; title=&#34;title: MathJax Testdate: 2019-07-05 21:27:59tags:mathjax: true # 加入这个声明，这篇文章就会开启mathjax渲染&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;title: MathJax Test&lt;/h2&gt;
+&lt;p&gt;date: 2019-07-05 21:27:59&lt;br&gt;
+tags:&lt;br&gt;
+mathjax: true # 加入这个声明，这篇文章就会开启mathjax渲染&lt;/p&gt;
+&lt;h2 id=&#34;httpsjzd0409githubioe59bbee78987-图片图片&#34;&gt;
+&lt;a href=&#34;https://jzd0409.github.io/#%E5%9B%BE%E7%89%87&#34; title=&#34;图片&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;图片&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jzd0409.github.io/picUrl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://jzd0409.github.io/picUrl&#34; alt=&#34;pic&#34;&gt;&lt;/a&gt;pic&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://jzd0409.github.io/path/to/image&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://jzd0409.github.io/path/to/image&#34; alt=&#34;alt text&#34; title=&#34;[width] [height] &#34;&gt;&lt;/a&gt;alt text&lt;/p&gt;
+&lt;h2 id=&#34;httpsjzd0409githubioquick-start-quick-startquick-start&#34;&gt;
+&lt;a href=&#34;https://jzd0409.github.io/#Quick-Start&#34; title=&#34;Quick Start&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;
+&lt;h3 id=&#34;httpsjzd0409githubiocreate-a-new-post-create-a-new-postcreate-a-new-post&#34;&gt;
+&lt;a href=&#34;https://jzd0409.github.io/#Create-a-new-post&#34; title=&#34;Create a new post&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;pre&gt;&lt;span&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span&gt;$ hexo new &lt;span&gt;&#34;My New Post&#34;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;More info: 
+&lt;a href=&#34;https://hexo.io/docs/writing.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Writing&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;httpsjzd0409githubiorun-server-run-serverrun-server&#34;&gt;
+&lt;a href=&#34;https://jzd0409.github.io/#Run-server&#34; title=&#34;Run server&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;Run server&lt;/h3&gt;
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;pre&gt;&lt;span&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;More info: 
+&lt;a href=&#34;https://hexo.io/docs/server.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Server&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;httpsjzd0409githubiogenerate-static-files-generate-static-filesgenerate-static-files&#34;&gt;
+&lt;a href=&#34;https://jzd0409.github.io/#Generate-static-files&#34; title=&#34;Generate static files&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;pre&gt;&lt;span&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;More info: 
+&lt;a href=&#34;https://hexo.io/docs/generating.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Generating&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;httpsjzd0409githubiodeploy-to-remote-sites-deploy-to-remote-sitesdeploy-to-remote-sites&#34;&gt;
+&lt;a href=&#34;https://jzd0409.github.io/#Deploy-to-remote-sites&#34; title=&#34;Deploy to remote sites&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;pre&gt;&lt;span&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;More info: 
+&lt;a href=&#34;https://hexo.io/docs/one-command-deployment.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>0615-数字贸易下的数据跨境流动风险</title>
+      <link>/post/0615-%E6%95%B0%E5%AD%97%E8%B4%B8%E6%98%93%E4%B8%8B%E7%9A%84%E6%95%B0%E6%8D%AE%E8%B7%A8%E5%A2%83%E6%B5%81%E5%8A%A8%E9%A3%8E%E9%99%A9/</link>
+      <pubDate>Thu, 15 Jun 2023 20:01:01 +0800</pubDate>
+      <guid>/post/0615-%E6%95%B0%E5%AD%97%E8%B4%B8%E6%98%93%E4%B8%8B%E7%9A%84%E6%95%B0%E6%8D%AE%E8%B7%A8%E5%A2%83%E6%B5%81%E5%8A%A8%E9%A3%8E%E9%99%A9/</guid>
+      <description>&lt;p&gt;Source: 
+&lt;a href=&#34;https://mp.weixin.qq.com/s/TMlxG4_-cDXlJuCyFMRCUQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;金融博览财富杂志&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;作者｜刘圣 赵大伟「中国人民银行石家庄中心支行，中国人民银行金融研究所」&lt;/p&gt;
+&lt;h2 id=&#34;提要&#34;&gt;提要：&lt;/h2&gt;
+&lt;p&gt;数字贸易发展背景之下，数据生产呈指数级增长趋势且覆盖的信息种类越来越丰富。数据能否跨境自由流动，直接影响数字价值链相关市场主体的商业效率。&lt;/p&gt;
+&lt;p&gt;数据跨境流动在推动数字经济繁荣发展的同时，也潜藏着一系列风险。如果任由这些囊括大量个体或群体身份信息在内的数据跨境流动，拥有&lt;strong&gt;数据优势&lt;/strong&gt;的一方通过大数据分析，可能会侵犯数据主体的隐私权、企业核心竞争力、商业权益等。&lt;/p&gt;
+&lt;p&gt;数据是数字贸易的基础性资源，跨境数据流动及相关服务是国际数字贸易价值流动的核心媒介。数据能否跨境自由流动，直接影响数字价值链相关市场主体的商业效率。然而，数据跨境流动在推动数字经济繁荣发展的同时，也潜藏着一系列风险，如个人隐私泄漏、企业合法权益受损等。&lt;/p&gt;
+&lt;h2 id=&#34;数字贸易背景下的数据&#34;&gt;数字贸易背景下的数据&lt;/h2&gt;
+&lt;p&gt;数字贸易发展背景之下，数据生产呈指数级增长趋势且覆盖的信息种类越来越丰富。数据分为一般数据、重要数据、核心数据。从数据跨境监管的角度来说，&lt;strong&gt;重要数据和核心数据&lt;/strong&gt;是监管的重点。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重要数据&lt;/strong&gt;是指一旦遭到篡改、破坏、泄露或者非法获取、非法利用，可能危害国家安全、公共利益的数据。重要数据不包括国家秘密，一般不包括个人信息和企业内部管理信息，但达到一定规模的个人信息或者基于海量个人信息加工形成的衍生数据，如影响国家安全或公共利益，则可能属于重要数据。&lt;strong&gt;核心数据&lt;/strong&gt;是指关系国家安全、国民经济命脉、重要民生、重大公共利益等数据。&lt;/p&gt;
+&lt;p&gt;随着全球贸易往来、金融投资和技术交流日益频繁，跨境流动数据的种类和数量不断增加，涉及个人隐私、企业商业机密、社会治理、国防安全等方方面面，海量数据跨境流动给国家安全带来隐患。由于人工智能、大数据等技术的不断发展，挖掘数据中隐藏的行为模式正变得越来越容易，如个人或群体的消费意愿、行为习惯、购买能力、职业选择等。如果任由这些囊括大量个体或群体身份信息在内的数据跨境流动，拥有数据优势的一方通过大数据分析，可能会侵犯数据主体的隐私权、企业核心竞争力、商业权益等。&lt;/p&gt;
+&lt;h2 id=&#34;数据跨境流动下的风险&#34;&gt;数据跨境流动下的风险&lt;/h2&gt;
+&lt;p&gt;一是金融数据隐私风险。金融业务开展过程中可能会收集客户的各类数据，包括个人自然信息（个人财产信息、个人联系信息以及个人身份鉴别信息），如银行卡密码、支付密码、账户的登录密码、隐私生物特征信息等。因此，在数据跨境流动中，如果接收数据方无法提供有效保护、有意滥用或是发生数据泄露等情况，便极有可能侵害到个人隐私权、财产权等合法权益，侵犯企业商业机密、知识产权等经济权益，严重时可能会威胁整个国家的数字产业竞争力。&lt;/p&gt;
+&lt;p&gt;二是支付风险。在支付清算过程中，付款人和收款人之间要通过各自的服务提供商交换姓名、银行账号和交易合同等内容，以保证支付转账的顺利运行。支付清算数据的安全，影响客户的资金安全，为维护支付系统和金融体系的稳定性，部分国家对此类数据出境施加更严格的要求。&lt;/p&gt;
+&lt;p&gt;三是系统性金融风险。目前，企业产品体系、服务渠道、运营方式逐渐数字化，重大数据泄露、遭受破坏、重要数据资产丢失所引发的风险和次生风险，不仅对于单家机构或企业来说是致命的，而且这种风险可能会从实体经济扩散至金融机构。数据跨境流动所形成的风险在机构间、行业间传递已不少见，传递过程中可能会引发风险持续扩散，导致局部风险扩散至系统性风险，或者从一国境内向境外不断传播。&lt;/p&gt;
+&lt;p&gt;四是国家基础数据安全风险。金融、军事、生物、健康、财税等领域的敏感数据涉及国家安全，一旦泄露或被窃取，将带来严重的不可控风险。数据的跨境流动将使在本国境内收集或产生的金融数据瞬间受到境外机构的掌控或处于可访问状态，将大量本国公民的个人敏感信息、金融业机构的业务信息、经营管理信息以及监管信息等暴露于他国视野之内，这将导致数据发送方所在国丧失对相关数据的专属控制权与管辖权，直接关涉到数据主权及国家安全。&lt;/p&gt;
+&lt;h2 id=&#34;政策建议&#34;&gt;政策建议&lt;/h2&gt;
+&lt;p&gt;目前，我国对数据跨境流动监管呈现“多头监管”格局，数据跨境监管政策存在交叉重叠，数据跨境流动监管手段相对较单一。国家数据局的成立，无疑从监管层面，加强了对数据的统一监管。除此之外，还需做好以下几个方面。&lt;/p&gt;
+&lt;h3 id=&#34;加快完善数据跨境流动管理制度&#34;&gt;●加快完善数据跨境流动管理制度&lt;/h3&gt;
+&lt;p&gt;在数据出境安全评估机制中，充分发挥行业自律组织的作用。行业自律组织熟悉行业发展、了解行业数据，能够有助于提高数据跨境流动安全评估的审核效率和审核有效性。建议进一步明确行业组织的安全评估职能，鼓励行业组织根据行业产业发展现状和数据跨境流动的需要，进行有针对性的评估，弥补行业归口监管的不足，也可以推动我国数据跨境流动监管体系的进一步完善，为数据跨境流动提供可操作的指引。&lt;/p&gt;
+&lt;p&gt;除此之外，要落实好数据主体的自查责任。作为数据生产、数据跨境传输、数据使用方，企业最为了解数据价值，更能预测数据跨境流动带来的收益和风险。企业应该是确保数据安全的第一责任人，建议对照我国数据出境的所有法律法规、行政法规和部门规章，通过内部合规或法务部门的审计，对所有需要出境的数据开展安全自评估、对数据遭遇恶意滥用或窃取可能造成的损害后果进行预判，以确保数据跨境传输过程中的每个环节都符合监管要求，从源头把控数据跨境流动的风险。&lt;/p&gt;
+&lt;h3 id=&#34;探索发展数据隐私技术路径建立数据跨境流动技术保障体系&#34;&gt;●探索发展数据隐私技术路径，建立数据跨境流动技术保障体系&lt;/h3&gt;
+&lt;p&gt;一是标记化技术。支付标记化技术（Payment Tokenization）原理在于通过支付标记(Token)代替银行卡号进行交易验证，从而避免卡号信息泄露带来的风险。支付标记化是使用一个唯一的数值来替代传统的银行卡主账号的过程，同时确保该值的应用被限定在一个特定的商户、渠道或设备，将个人数据的“匿名化”交由可信第三方负责。&lt;/p&gt;
+&lt;p&gt;二是区块链技术。区块链技术从根本上打破了中心化模式下数据控制者对数据的天然垄断，赋予用户真正的数据隐私保护权。用户的私钥可以本地生成，通过公钥计算发布有效的账户地址，从而隔断账户地址和账户持有人真实身份的关联。通过控制私钥，用户可以在区块链上自主完成交易，虽然在区块链网络上能够看到每一笔交易的细节，但无法对应到现实世界中的具体某个人。&lt;/p&gt;
+&lt;p&gt;三是发展数据空间。作为去中心化数据中介，数据空间基于开放和透明标准的共享数据系统，克服了跨组织共享数据的法律和技术门槛，通过技术、语义、组织和法律互操作实现信任，提高数据提供者、用户之间的互操作性和信任度，促进数据跨境流动和共享。&lt;/p&gt;
+&lt;h3 id=&#34;加强数据跨境流动管理国际合作&#34;&gt;●加强数据跨境流动管理国际合作&lt;/h3&gt;
+&lt;p&gt;首先，借助多边对话机制和国际性会议平台，宣介我国数据跨境流动的主张。借助“一带一路”倡议、上海合作组织、亚洲基础设施投资银行、世界互联网大会等，吸引更多国家支持我国数据跨境流动的主张《全球数据安全倡议》，增强在数据跨境流动领域的话语权。&lt;/p&gt;
+&lt;p&gt;其次，依托自贸区、自贸港扩大数据跨境传输安全管理试点范围，结合跨境企业行业特点和数据跨境需求，以及贸易国的数据跨境监管规则，研究制定个性化的数据跨境监管措施，尽快形成一批可复刻推广的监管措施，提升我国企业数据跨境安全流动资信水平，增强企业在跨境业务领域的数据合规竞争力。&lt;/p&gt;
+&lt;p&gt;最后，要积极总结我国在RCEP协定下开展数据跨境流动监管的有益经验，为未来在更多双边、多边贸易谈判中增加数据跨境流动条款提供借鉴，从而更好地参与到全球数据跨境流动监管规则制定中来。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>0614-常用命令</title>
+      <link>/post/0614-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link>
+      <pubDate>Wed, 14 Jun 2023 16:22:36 +0800</pubDate>
+      <guid>/post/0614-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid>
+      <description>&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;hugo # 生成public文件夹
+cd public
+git init
+git remote add origin git@github.com:jzd2023/jzd2023.github.io.git
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;先在根目录中输入&lt;code&gt;hugo&lt;/code&gt;，然后进入&lt;code&gt;public&lt;/code&gt;文件夹中，输入下面3条命令。&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git add .
+git commit -m &#39;init&#39;
+git push -f --set-upstream origin master
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;新建页面&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;hugo new posts/&amp;lt;name.md&amp;gt;
+
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>0619-中国企业部门杠杆率之谜</title>
+      <link>/post/0619-%E4%BC%81%E4%B8%9A%E6%9D%A0%E6%9D%86/</link>
+      <pubDate>Wed, 14 Jun 2023 16:22:36 +0800</pubDate>
+      <guid>/post/0619-%E4%BC%81%E4%B8%9A%E6%9D%A0%E6%9D%86/</guid>
+      <description>&lt;p&gt;中国企业部门杠杆率之谜&lt;/p&gt;
+&lt;p&gt;从宏观来看，经济层面的杠杆率一般被定义为宏观经济层面的杠杆率除以总GDP，从微观层面来看，可以从会计视角进行分解。在会计上，宏观杠杆率在微观层面可以分解为三个部分：&lt;/p&gt;
+&lt;p&gt;​· 资产负债率；
+· 资产周转率；
+· 增加值系数；&lt;/p&gt;
+&lt;p&gt;​而讨论宏观杠杆率的微观经济学含义，主要是讨论企业的资产负债率资产周转率的变化。&lt;/p&gt;
+&lt;p&gt;通常而言，观察中国企业部门的财务数据可通过：&lt;/p&gt;
+&lt;p&gt;· 上市公司；
+​ · 规模以上工业企业；
+​ · 财政部监管的大型国有企业；&lt;/p&gt;
+&lt;h1 id=&#34;原文&#34;&gt;原文&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.cf40.com/news_detail/7948.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;中国企业部门杠杆率之谜&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;时间：2018-04-04 作者：高善文&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./D:/myblogs/jzd/static/0619_po/heng.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;　　杠杆率是讨论中国金融风险问题的重要切入点。当然，杠杆率可以从不同部门的角度进行观察，我今天重点分享的是中国企业部门的杠杆率，包括对变化原因的解释以及未来趋势的预判。&lt;/p&gt;
+&lt;p&gt;　　宏观经济层面的杠杆率一般被定义为某种形式的总负债除以总GDP，但其微观含义是什么，我认为并不是特别清晰。因此，我们考虑对实体企业层面的杠杆率进行类似杜邦分析的会计分解。在会计上，宏观杠杆率在微观层面可以分解成三个概念：资产负债率、资产周转率和增加值系数。增加值系数是一个统计意义上的技术指标，本身并没有特别的经济学含义。因此，讨论宏观杠杆率的微观经济学含义，主要是讨论企业的资产负债率和资产周转率的变化。&lt;/p&gt;
+&lt;p&gt;　　观察中国企业部门的财务数据有不同的视角和口径，比如上市公司、规模以上工业企业，还有财政部监管的大型国有企业等。令人欣慰的是，通过不同的口径计算出的企业资产负债率的变化轨迹相当地接近。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;一　负债率的上升集中在国有部门　但2015年后出现下降&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;　　金融危机以来，从资产负债率的角度来讲，国有企业经历了非常明确和显著的加杠杆过程，并在2014年达到顶峰（图1）。从规模以上工业企业资产负债率这一指标也可以看到类似的趋势，但是金融危机以后，中国私人部门并没有经历杠杆率的上升，整个资产负债率一直在下降（图2）。从上市公司角度来看，情况也相当类似，上市公司杠杆率的上升，主要集中在国有控股企业；上市公司中非国有企业的资产负债率，在金融危机后基本是稳定的，跟危机前后相比，甚至还有轻微下降（图3）。&lt;/p&gt;
+&lt;p&gt;图1 全部非金融国有及国有控股企业资产负债率&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.cf40.com/Uploads/upload/userup/1804/0409410S303.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.cf40.com/Uploads/upload/userup/1804/0409410S303.jpg&#34; alt=&#34;img&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;数据来源：CEIC，安信证券&lt;/p&gt;
+&lt;p&gt;注1：2015年口径调整，对2015-2017年资产负债率平台有提升。&lt;/p&gt;
+&lt;p&gt;注2：2007年当年总资产增速异常大升，致使当年及随后资产负债率平台显著下降。也许与公司上市等因素有关，未有官方解释。&lt;/p&gt;
+&lt;p&gt;图2 规模以上工业企业资产负债率&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.cf40.com/Uploads/upload/userup/1804/040941225212.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.cf40.com/Uploads/upload/userup/1804/040941225212.jpg&#34; alt=&#34;img&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;数据来源：CEIC，安信证券&lt;/p&gt;
+&lt;p&gt;图3 非金融上市公司资产负债率&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.cf40.com/Uploads/upload/userup/1804/04094135W94.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.cf40.com/Uploads/upload/userup/1804/04094135W94.jpg&#34; alt=&#34;img&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;数据来源：CEIC，安信证券&lt;/p&gt;
+&lt;p&gt;　　如果我们把上市公司按板块来分成周期类公司、成长类公司、消费类公司等，可以清楚地看到，资产负债率的上升主要集中在周期类公司。对于成长类和消费类公司而言，金融危机以后，资产负债率都是在不断下降的，是在经历去杠杆的过程（图4）。对于周期类的上市公司、国有上市公司或非上市公司而言，资产负债率的高点都在2014年前后。&lt;/p&gt;
+&lt;p&gt;图4 各风格板块上市公司资产负债率&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.cf40.com/Uploads/upload/userup/1804/0409414510b.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.cf40.com/Uploads/upload/userup/1804/0409414510b.jpg&#34; alt=&#34;img&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;数据来源：Wind，安信证券&lt;/p&gt;
+&lt;p&gt;注1：（1）公司所属风格板块基于2016年分类，未历史追溯；（2）2017年基于第三季度数据估计。&lt;/p&gt;
+&lt;p&gt;　　总结来看，金融危机以后，中国非国有部门总体上没有经历资产负债率的上升，没有经历加杠杆。加杠杆集中在国有部门，主要是在国有部门占据主导地位的周期性行业或周期性上市公司，其杠杆率的高点基本出现在2014年前后。2015年以后，国有部门资产负债率总体上开始下降。这也许是由于反周期的刺激政策，或者是由于“国进民退”的潮流等，但从微观层面上看，杠杆问题体现在资产负债率层面上，主要是所有制的问题，即国有企业问题。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;二　资产周转率系统性改善&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;　　资产周转率的微观含义值得讨论。在深入分析之前，为了直观和形象，我们可以将其简单地理解为产能利用率。在一般的条件下，如果可以假设一个经济的潜在生产能力总是与其总资产规模有单调增加的关系，那么，资产周转率就可以大略地转化为产能利用率。一些分析用(增量)资本产出比来理解资产周转率，这是有问题的，原因在于其忽略了周期因素的影响。&lt;/p&gt;
+&lt;p&gt;　　所以，中国企业部门宏观杠杆率上升的另外一个重要原因是出现了严重的产能过剩。&lt;/p&gt;
+&lt;p&gt;　　如何理解资产周转率的变化？从资产周转率的定义来看，它是销售收入与总资产的比。当经济体面临某种冲击时，销售收入的调整快得多，而总资产的调整要慢一些。因为总资产的调整要通过长时间的投资积累（或折旧）来实现。从这个意义上来讲，即使资产周转率的长期均衡水平不变，当经济面临短期冲击时，产能利用率或资产周转率也会具有很强的周期性，短周期波动相对较大。&lt;/p&gt;
+&lt;p&gt;　　从更长的周期来看，资产周转率或产能利用率的长期均衡水平可能出现改变，其中存在一些更基本的经济含义。&lt;/p&gt;
+&lt;p&gt;　　如果把经济总量的生产函数处理成柯布-道格拉斯生产函数，在经济处于长期均衡状态的条件下，就可以计算出资产周转率的数学表达以及资产周转率变化的条件和方向。过程如下：&lt;/p&gt;
+&lt;p&gt;　　(1)设定生产函数：
+&lt;a href=&#34;http://www.cf40.com/Uploads/upload/userup/1804/04094205F46.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.cf40.com/Uploads/upload/userup/1804/04094205F46.jpg&#34; alt=&#34;img&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;　　(2)资产周转率：
+&lt;a href=&#34;http://www.cf40.com/Uploads/upload/userup/1804/040942133019.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.cf40.com/Uploads/upload/userup/1804/040942133019.jpg&#34; alt=&#34;img&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;　　(3)资产周转率增速：
+&lt;a href=&#34;http://www.cf40.com/Uploads/upload/userup/1804/0409422164N.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.cf40.com/Uploads/upload/userup/1804/0409422164N.jpg&#34; alt=&#34;img&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;　　(4)资产周转率提升需要满足：
+&lt;a href=&#34;http://www.cf40.com/Uploads/upload/userup/1804/040942342Z6.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.cf40.com/Uploads/upload/userup/1804/040942342Z6.jpg&#34; alt=&#34;img&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;　　推导过程的第四步，给出了在经济处于长期均衡条件下，驱动资产周转率变化的核心因素。即，如果技术进步出现放缓、或者劳动力的趋势增速减慢，那么为了维持资产周转率，均衡的资本增速必须系统性下降。&lt;/p&gt;
+&lt;p&gt;　　2011年以后，中国经济经历了周期性的需求减速，同期，稳态劳动力增长率经历了结构性的、不可逆的、系统性的下降。从世界其他国家来看，2011年后，全球技术进步的速度都在下降，中国应该也不例外。&lt;/p&gt;
+&lt;p&gt;　　从这一推导可以看出，在这一结构性变化的背景下，由周期原因带来的资产周转率下降，会变得更严重，持续更长的时间，达到的底部也会更深。这正是我们在中国数据中看到的情况。&lt;/p&gt;
+&lt;p&gt;　　但是，这并不意味着资产周转率长期下降是不可逆的。实际上，只要资本总量的增速下降到足够低的水平，低于以上计算显示的临界值，资产周转率就会转入上升。从中国的经验数据来估计，这一临界值应该在7%—9%之间。&lt;/p&gt;
+&lt;p&gt;　　计算显示，经过超过6年时间的持续减速，2016年工业企业和上市公司的总资产增速都已经开始低于这一临界水平，这带来了资产周转率的止跌回升。&lt;/p&gt;
+&lt;p&gt;　　从趋势上看，考虑到企业部门投资意愿仍然较弱，资产增速可能在一段时间里继续维持在临界水平之下，这意味着资产周转率的回升应该是可持续的。&lt;/p&gt;
+&lt;p&gt;　　因此，企业部门杠杆率的上升趋势应该已经结束，正在稳定下来或者开始下降。未来如果能够进一步推动国有企业去杠杆和推动更市场化的经济改革，那么企业部门宏观杠杆率改善的基础将更加牢固。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;作者高善文系CF40学术委员，安信证券首席经济学家。本文系作者在第二届浦山基金会年会上发表的主题演讲。&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>0605_基础操作</title>
+      <link>/post/0605-%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C/</link>
+      <pubDate>Mon, 05 Jun 2023 11:39:42 +0800</pubDate>
+      <guid>/post/0605-%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;常用命令&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;hugo new posts/&amp;lt;your_post.md&amp;gt;
+
+hugo new -k docs docs/&amp;lt;your_doc&amp;gt;/&amp;lt;your_page.md&amp;gt;
+# 重新创建
+hugo new -k docs docs
+
+hugo new -k authors authors/&amp;lt;your_author&amp;gt;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;转自：
+&lt;a href=&#34;https://www.wangchucheng.com/zh/docs/hugo-eureka/content-management/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wangchucheng.com&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;内容管理&#34;&gt;内容管理&lt;/h2&gt;
+&lt;p&gt;在
+&lt;a href=&#34;https://www.wangchucheng.com/zh/docs/hugo-eureka/homepage-configuration/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;主页配置&lt;/a&gt;中，你已经成功地构建了网站主页。接下来我们将添加一些内容。本文将带领你了解网站内容结构及编辑技巧。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;pre&gt;&lt;code&gt;如果你的区域存在难以访问GitHub的问题，你可以将所有涉及到GitHub的网址替换为[Gitee镜像](https://gitee.com/wangchucheng/hugo-eureka/)。例如将`https://github.com/wangchucheng/hugo-eureka/`替换为`https://gitee.com/wangchucheng/hugo-eureka/`即可。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;目录结构&#34;&gt;目录结构&lt;/h2&gt;
+&lt;p&gt;对于单一语言的项目，你可以在项目根目录下的&lt;code&gt;content&lt;/code&gt;文件夹中管理内容。对于多语言项目，内容则处在特定语言的目录下，例如&lt;code&gt;content/zh/&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;内容根目录的内容一般根据网站模块及其结构进行分类，例如我们一般将博客文章储存于&lt;code&gt;content/posts/&lt;/code&gt;中。Eureka 目前的提供的主要类型为：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;文章页&lt;/li&gt;
+&lt;li&gt;文档页&lt;/li&gt;
+&lt;li&gt;作者页&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;新建文章页&#34;&gt;新建文章页&lt;/h3&gt;
+&lt;p&gt;文章内容为 Eureka 默认的文章结构，因此新建文章页时不需指定其类型。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;hugo new posts/&amp;lt;your_post.md&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;以上命令可以在&lt;code&gt;content/posts/&lt;/code&gt;文件夹中新建一个包含默认 Front Matter 的 Markdown 文件。&lt;/p&gt;
+&lt;h3 id=&#34;新建文档页&#34;&gt;新建文档页&lt;/h3&gt;
+&lt;p&gt;新建文档页时需指定其类型为&lt;code&gt;docs&lt;/code&gt;。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;hugo new -k docs docs/&amp;lt;your_doc&amp;gt;/&amp;lt;your_page.md&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;以上命令可以在&lt;code&gt;content/docs/&amp;lt;your_doc&amp;gt;/&lt;/code&gt;文件夹中新建一个包含默认文档内容的 Markdown 文件。&lt;/p&gt;
+&lt;p&gt;如果你此前没有创建过文档类型的内容，你需要先生成文档列表：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;pre&gt;&lt;code&gt;到目前为止，如果你使用了Hugo Modules安装主题，该命令无法正确创建文件夹。你需要手动将[docs](https://github.com/wangchucheng/hugo-eureka/tree/master/archetypes/docs)文件夹复制到你的`content`文件夹中。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;多版本文档&#34;&gt;多版本文档&lt;/h3&gt;
+&lt;p&gt;Eureka 支持多版本文档。你只需将历史版本全部内容复制到名称为版本号的子文件夹下即可。版本号需遵循
+&lt;a href=&#34;https://semver.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;语义化版本&lt;/a&gt;，版本号最前是否包含&lt;code&gt;v&lt;/code&gt;均可以被正常识别。&lt;/p&gt;
+&lt;p&gt;以如下目录结构为例：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;content
+├── docs
+│      ├── doc-1
+│      │      ├── content1.md
+│      │      ├── content2.md
+│      │      ├── 1.0.0
+│      │      │      ├── content1.md
+│      │      │      ├── content2.md
+│      │      │      └── _index.md
+│      │      └── _index.md
+│      └── ...
+└── ...
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;如果你想创建&lt;code&gt;1.0.0&lt;/code&gt;版本的文档，你只需将所有内容移至以&lt;code&gt;1.0.0&lt;/code&gt;命名的文件夹中即可。&lt;/p&gt;
+&lt;h3 id=&#34;新建作者页&#34;&gt;新建作者页&lt;/h3&gt;
+&lt;p&gt;新建作者页时需指定其类型为&lt;code&gt;authors&lt;/code&gt;。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;hugo new -k authors authors/&amp;lt;your_author&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;以上命令可以在&lt;code&gt;content/authors/&lt;/code&gt;文件夹中新建一个包含默认作者内容的文件夹。&lt;/p&gt;
+&lt;h2 id=&#34;文件结构&#34;&gt;文件结构&lt;/h2&gt;
+&lt;p&gt;Hugo 的内容文件主要由两部分组成，文件最前部的 Front Matter 及之后的正文部分。Front Matter 可以使用 toml，yaml 或 json 形式。正文部分则遵循 Markdown 语法。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;---
+title: Hello World
+description:
+toc: true
+authors: []
+tags: []
+categories: []
+series: []
+---
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;以上为一个基本的 Front Matter 的样式。你可以通过其设置各类属性。&lt;/p&gt;
+&lt;p&gt;如果你需要了解 Hugo 预定义的 Front Matter 或更多关于 Front Matter 的内容，可以参考 Hugo 的
+&lt;a href=&#34;https://gohugo.io/content-management/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;相关文档&lt;/a&gt;。&lt;/p&gt;
+&lt;h2 id=&#34;front-matter&#34;&gt;Front Matter&lt;/h2&gt;
+&lt;h3 id=&#34;文章页参数&#34;&gt;文章页参数&lt;/h3&gt;
+&lt;p&gt;文章页有以下常用 Front Matter 参数：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;title(string)&lt;/strong&gt;：文章标题。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;description(string)&lt;/strong&gt;：文章描述。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;toc(bool)&lt;/strong&gt;：是否激活目录，默认为&lt;code&gt;false&lt;/code&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;authors(array)&lt;/strong&gt;：文章作者，名称应于与&lt;code&gt;content/authors/&lt;/code&gt;内的内容相符。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;tags(array)&lt;/strong&gt;：文章标签。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;categories(array)&lt;/strong&gt;：文章分类。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;series(array)&lt;/strong&gt;：文章系列。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;date(string)&lt;/strong&gt;：文章发表时间，格式应满足
+&lt;a href=&#34;https://tools.ietf.org/html/rfc3339&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RFC 3339&lt;/a&gt;日期格式。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;lastmod(string)&lt;/strong&gt;：文章最后修改时间，格式应满足
+&lt;a href=&#34;https://tools.ietf.org/html/rfc3339&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RFC 3339&lt;/a&gt;日期格式。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;featuredVideo(string)&lt;/strong&gt;：文章精选视频，相关操作可参考
+&lt;a href=&#34;https://www.wangchucheng.com/zh/docs/hugo-eureka/content-management/#%E5%8A%A0%E8%BD%BD%E8%A7%86%E9%A2%91&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;加载视频&lt;/a&gt;，&lt;code&gt;featuredVideo&lt;/code&gt;与&lt;code&gt;featuredImage&lt;/code&gt;同时存在时，只会显示&lt;code&gt;featuredVideo&lt;/code&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;featuredImage(string)&lt;/strong&gt;：文章精选图片，相关操作可参考
+&lt;a href=&#34;https://www.wangchucheng.com/zh/docs/hugo-eureka/content-management/#%E5%8A%A0%E8%BD%BD%E5%9B%BE%E7%89%87&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;加载图片&lt;/a&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;draft(bool)&lt;/strong&gt;：是否为草稿，默认为&lt;code&gt;true&lt;/code&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;如果你需要了解 Hugo 预定义的 Front Matter，可以参考 Hugo 的
+&lt;a href=&#34;https://gohugo.io/content-management/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;相关文档&lt;/a&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;文档页参数&#34;&gt;文档页参数&lt;/h3&gt;
+&lt;p&gt;文档页有以下常用 Front Matter 参数：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;title(string)&lt;/strong&gt;：文档该页标题。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;description(string)&lt;/strong&gt;：文档该页描述。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;toc(bool)&lt;/strong&gt;：是否激活目录，默认为&lt;code&gt;false&lt;/code&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;authors(array)&lt;/strong&gt;：文档该页作者，名称应于与&lt;code&gt;content/authors/&lt;/code&gt;内的内容相符。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;date(string)&lt;/strong&gt;：文档该页发表时间，格式应满足
+&lt;a href=&#34;https://tools.ietf.org/html/rfc3339&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RFC 3339&lt;/a&gt;日期格式。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;lastmod(string)&lt;/strong&gt;：文档该页最后修改时间，格式应满足
+&lt;a href=&#34;https://tools.ietf.org/html/rfc3339&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RFC 3339&lt;/a&gt;日期格式。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;featuredImage(string)&lt;/strong&gt;：文档该页精选图片，相关操作可参考
+&lt;a href=&#34;https://www.wangchucheng.com/zh/docs/hugo-eureka/content-management/#%E5%8A%A0%E8%BD%BD%E5%9B%BE%E7%89%87&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;加载图片&lt;/a&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;draft(bool)&lt;/strong&gt;：是否为草稿，默认为&lt;code&gt;true&lt;/code&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;如果你需要了解 Hugo 预定义的 Front Matter，可以参考 Hugo 的
+&lt;a href=&#34;https://gohugo.io/content-management/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;相关文档&lt;/a&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;作者页参数&#34;&gt;作者页参数&lt;/h3&gt;
+&lt;p&gt;作者页有以下常用 Front Matter 参数：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;title(string)&lt;/strong&gt;：作者姓名。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;role(string)&lt;/strong&gt;：作者角色。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;bio(string)&lt;/strong&gt;：作者简要介绍。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;avatar(string)&lt;/strong&gt;：作者头像，相关操作可参考
+&lt;a href=&#34;https://www.wangchucheng.com/zh/docs/hugo-eureka/content-management/#%E5%8A%A0%E8%BD%BD%E5%9B%BE%E7%89%87&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;加载图片&lt;/a&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;organization(object)&lt;/strong&gt;：作者当前机构。
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;name(string)&lt;/strong&gt;：机构姓名。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;url(stirng)&lt;/strong&gt;：机构网址。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;social(array)&lt;/strong&gt;：社交媒体信息。
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;icon(string)&lt;/strong&gt;：社交媒体名称。可用的图标可以在
+&lt;a href=&#34;https://fontawesome.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Font Awesome&lt;/a&gt;上进行查询。查询后你可以获得类似&lt;code&gt;&amp;lt;i class=&amp;quot;fab fa-github&amp;quot;&amp;gt;&amp;lt;/i&amp;gt;&lt;/code&gt;的结果。icon 的值即为 github。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;iconPack(string)&lt;/strong&gt;：社交媒体包名。iconPack 的值为上一项中的 fab。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;url(string)&lt;/strong&gt;：社交媒体链接。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;如果你需要了解 Hugo 预定义的 Front Matter，可以参考 Hugo 的
+&lt;a href=&#34;https://gohugo.io/content-management/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;相关文档&lt;/a&gt;。&lt;/p&gt;
+&lt;h2 id=&#34;数学公式&#34;&gt;数学公式&lt;/h2&gt;
+&lt;p&gt;Eureka 支持使用 KaTeX 渲染数学公式。你可以在
+&lt;a href=&#34;https://www.wangchucheng.com/zh/docs/hugo-eureka/customization/#%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;定制 Eureka&lt;/a&gt;中找到配置 KaTeX 的方式。&lt;/p&gt;
+&lt;p&gt;你可以使用&lt;code&gt;$...$&lt;/code&gt;或&lt;code&gt;\(...\)&lt;/code&gt;输入行内公式，使用&lt;code&gt;&amp;amp;&amp;amp;...&amp;amp;&amp;amp;&lt;/code&gt;或&lt;code&gt;\[...\]&lt;/code&gt;输入行间公式。&lt;/p&gt;
+&lt;p&gt;在文档中输入时，由于部分 Markdown 语法会与 LaTeX 冲突（例如&lt;code&gt;_&lt;/code&gt;与&lt;code&gt;\&lt;/code&gt;），可能会导致 TeX 代码被 Markdown 渲染器处理，而显示错误的结果。Eureka 提供了两种解决方案。&lt;/p&gt;
+&lt;p&gt;第一种方案是你可以使用&lt;code&gt;\\&lt;/code&gt;代替&lt;code&gt;\&lt;/code&gt;以及&lt;code&gt;\\_&lt;/code&gt;代替&lt;code&gt;_&lt;/code&gt;解决此问题，但这意味着你需要修改你的 LaTeX 公式，导致了迁移的困难。&lt;/p&gt;
+&lt;p&gt;第二种方式则是使用 html 标签包裹公式块，此种方法只能针对行间公式。可将行间公式包裹在&lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt;内：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;div&amp;gt;your_displayed_equation&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;需要注意的是，在使用这种方法时，在&lt;code&gt;config.yaml&lt;/code&gt;配置文件中的&lt;code&gt;markup.goldmark.renderer&lt;/code&gt;的&lt;code&gt;unsafe&lt;/code&gt;属性应设为&lt;code&gt;true&lt;/code&gt;。&lt;/p&gt;
+&lt;h2 id=&#34;加载视频&#34;&gt;加载视频&lt;/h2&gt;
+&lt;p&gt;Eureka 中有一些需要加载视频的地方，例如精选视频。Eureka 提供了多种视频加载方式，这些方式都需要通过在 Front Matter 中指定路径来实现。视频链接支持本地视频以及外链。&lt;/p&gt;
+&lt;p&gt;对于本地存储的视频，你可以将视频存储于项目根目录下的&lt;code&gt;static&lt;/code&gt;文件夹，并在配置文件中填写其相对路径。例如将&lt;code&gt;example.mp4&lt;/code&gt;存储于&lt;code&gt;assets/videos/example.mp4&lt;/code&gt;，你只需将 Front Matter 中对应属性（例如 featuredVideo）设置为：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;featuredVideo: videos/example.mp4
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;对于视频网站的分享视频，你只需将 Front Matter 对应属性（例如 featuredVideo）的值设置为视频播放器 url 即可。需要注意的是，视频播放器 url 并非视频网站的网址，而是其嵌入代码（一般为 iframe）中&lt;code&gt;src&lt;/code&gt;属性的值。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;featuredVideo: https://example.com
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;加载图片&#34;&gt;加载图片&lt;/h2&gt;
+&lt;p&gt;Eureka 中有许多需要加载图片的地方，例如主页图片或作者头像等。Eureka 提供了非常丰富的图像加载方式：&lt;/p&gt;
+&lt;h3 id=&#34;在配置文件中添加图片&#34;&gt;在配置文件中添加图片&lt;/h3&gt;
+&lt;p&gt;我们需要在配置文件中的一些地方添加图片，例如主页图片。配置文件中的图片链接支持本地链接以及外链。&lt;/p&gt;
+&lt;p&gt;对于本地存储的图片，你可以选择将图片存储于项目根目录下的&lt;code&gt;assets&lt;/code&gt;或&lt;code&gt;static&lt;/code&gt;文件夹，并在配置文件中填写其相对路径。例如将&lt;code&gt;example.jpg&lt;/code&gt;存储于&lt;code&gt;assets/images/example.jpg&lt;/code&gt;，你只需将配置文件设置为：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;imgLeft: images/example.jpg
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;需要注意的是，&lt;code&gt;icon&lt;/code&gt;属性只能存储于&lt;code&gt;assets&lt;/code&gt;文件夹中。&lt;/p&gt;
+&lt;p&gt;对于外链图片，你只需将配置文件对应属性的值设置为图片 url 即可。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;imgLeft: https://example.com
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;在-front-matter-中添加图片&#34;&gt;在 Front Matter 中添加图片&lt;/h3&gt;
+&lt;p&gt;有时我们需要在内容的 Front Matter 中添加图片，例如作者头像。除了
+&lt;a href=&#34;https://www.wangchucheng.com/zh/docs/hugo-eureka/content-management/#%E5%9C%A8%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E4%B8%AD%E6%B7%BB%E5%8A%A0%E5%9B%BE%E7%89%87&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;在配置文件中添加图片&lt;/a&gt;提到的两种方式外，你还可以将图片以特定文件名命名并存储于内容的同一文件夹下。&lt;/p&gt;
+&lt;p&gt;以下为当前属性的命名方式：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;featuredImage&lt;/strong&gt;：featured.jpg&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;avatar&lt;/strong&gt;：avatar.jpg&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>0601-My First Post</title>
+      <link>/post/my-first-post/</link>
+      <pubDate>Thu, 01 Jun 2023 10:21:42 +0800</pubDate>
+      <guid>/post/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello world!&lt;/h1&gt;
+&lt;h2 id=&#34;基础操作&#34;&gt;基础操作&lt;/h2&gt;
+&lt;h2 id=&#34;结构&#34;&gt;结构：&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;content/posts/&lt;/p&gt;
+&lt;p&gt;1.1 多语言：content/zh/posts/&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;content/doc&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;content/authors/&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;常用命令&#34;&gt;常用命令&lt;/h2&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;# posts
+hugo new posts/&amp;lt;your_post.md&amp;gt;
+
+# doc
+hugo new -k docs docs/&amp;lt;your_doc&amp;gt;/&amp;lt;your_page.md&amp;gt;
+
+# author
+hugo new -k authors authors/&amp;lt;your_author&amp;gt;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;blockquote&gt;
+&lt;p&gt;支持多版本文档，只需将历史版本全部内容复制到名称为版本号的子文件夹下即可。版本号需遵循语义化版本，版本号最前是否包含v均可以被正常识别。目录如下：&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;pre&gt;&lt;code&gt;目录结构
+  &amp;gt; content
+  ├── docs
+  │      ├── doc-1
+  │      │      ├── content1.md
+  │      │      ├── content2.md
+  │      │      ├── 1.0.0
+  │      │      │      ├── content1.md
+  │      │      │      ├── content2.md
+  │      │      │      └── _index.md
+  │      │      └── _index.md
+  │      └── ...
+  └── ...
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;主题设置&#34;&gt;主题设置：&lt;/h1&gt;
+&lt;p&gt;Themes1: 
+&lt;a href=&#34;https://www.wangchucheng.com/zh/docs/hugo-eureka/content-management/#%E5%8A%A0%E8%BD%BD%E5%9B%BE%E7%89%87&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hugo-eureka&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;1-front-matter&#34;&gt;1. Front Matter&lt;/h3&gt;
+&lt;h4 id=&#34;1-文章页参数&#34;&gt;1. 文章页参数&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;title(string)：文章标题。
+description(string)：文章描述。
+toc(bool)：是否激活目录，默认为false。
+authors(array)：文章作者，名称应于与content/authors/内的内容相符。
+tags(array)：文章标签。
+categories(array)：文章分类。
+series(array)：文章系列。
+date(string)：文章发表时间，格式应满足RFC 3339日期格式。
+lastmod(string)：文章最后修改时间，格式应满足RFC 3339日期格式。
+featuredVideo(string)：文章精选视频，相关操作可参考加载视频，featuredVideo与featuredImage同时存在时，只会显示featuredVideo。
+featuredImage(string)：文章精选图片，相关操作可参考加载图片。
+draft(bool)：是否为草稿，默认为true。
+如果你需要了解 Hugo 预定义的 Front Matter，可以参考 Hugo 的相关文档。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol&gt;
+&lt;li&gt;Docs参数&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;title(string)：文档该页标题。
+description(string)：文档该页描述。
+toc(bool)：是否激活目录，默认为false。
+authors(array)：文档该页作者，名称应于与content/authors/内的内容相符。
+date(string)：文档该页发表时间，格式应满足RFC 3339日期格式。
+lastmod(string)：文档该页最后修改时间，格式应满足RFC 3339日期格式。
+featuredImage(string)：文档该页精选图片，相关操作可参考加载图片。
+draft(bool)：是否为草稿，默认为true。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Authors&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;title(string)：作者姓名。
+role(string)：作者角色。
+bio(string)：作者简要介绍。
+avatar(string)：作者头像，相关操作可参考加载图片。
+organization(object)：作者当前机构。
+name(string)：机构姓名。
+url(stirng)：机构网址。
+social(array)：社交媒体信息。
+icon(string)：社交媒体名称。可用的图标可以在Font Awesome上进行查询。查询后你可以获得类似&amp;lt;i class=&amp;quot;fab fa-github&amp;quot;&amp;gt;&amp;lt;/i&amp;gt;的结果。icon 的值即为 github。
+iconPack(string)：社交媒体包名。iconPack 的值为上一项中的 fab。
+url(string)：社交媒体链接。
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&#34;2-数学公式&#34;&gt;2. 数学公式&lt;/h4&gt;
+&lt;p&gt;支持使用 KaTeX 渲染数学公式。你可以在定制 Eureka中找到配置 KaTeX 的方式。&lt;/p&gt;
+&lt;p&gt;你可以使用&lt;code&gt;$...$&lt;/code&gt;或&lt;code&gt;\(...\)&lt;/code&gt;输入行内公式，使用&lt;code&gt;&amp;amp;&amp;amp;...&amp;amp;&amp;amp;&lt;/code&gt;或&lt;code&gt;\[...\]&lt;/code&gt;输入行间公式。&lt;/p&gt;
+&lt;p&gt;在文档中输入时，由于部分 Markdown 语法会与 LaTeX 冲突（例如_与\），可能会导致 TeX 代码被 Markdown 渲染器处理，而显示错误的结果。Eureka 提供了两种解决方案。&lt;/p&gt;
+&lt;p&gt;第一种方案是你可以使用&lt;code&gt;\\代替\以及\\_代替_&lt;/code&gt;解决此问题，但这意味着你需要修改你的 LaTeX 公式，导致了迁移的困难。&lt;/p&gt;
+&lt;p&gt;第二种方式则是使用 &lt;code&gt;html 标签&lt;/code&gt;包裹公式块，此种方法只能针对行间公式。可将行间公式包裹在&lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt;内：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;&amp;lt;div&amp;gt;your_displayed_equation&amp;lt;/div&amp;gt;&lt;/code&gt;
+需要注意的是，在使用这种方法时，在&lt;code&gt;config.yaml&lt;/code&gt;配置文件中的&lt;code&gt;markup.goldmark.renderer&lt;/code&gt;的&lt;code&gt;unsafe&lt;/code&gt;属性应设为&lt;code&gt;true&lt;/code&gt;&lt;/p&gt;
+&lt;h4 id=&#34;关于图片和视频&#34;&gt;关于图片和视频&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;存于&lt;code&gt;assets&lt;/code&gt;文件夹下
+&lt;code&gt;assets/images/xxx.jpg/png&lt;/code&gt;
+&lt;code&gt;assets/videos/xxx.mp4&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;对应在fontmatter设置：
+images:
+&lt;code&gt;featuredVideo: videos/example.mp4&lt;/code&gt; OR &lt;code&gt;featuredVideo: https://example.com&lt;/code&gt;
+videos:
+&lt;code&gt;assets/videos/xxx.mp4&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;若来自外链：
+image11: &lt;code&gt;url&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在 Front Matter 中添加图片
+有时我们需要在内容的 Front Matter 中添加图片，例如作者头像。除了在配置文件中添加图片提到的两种方式外，你还可以将图片以特定文件名命名并存储于内容的同一文件夹下。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;以下为当前属性的命名方式：
+featuredImage：featured.jpg
+avatar：avatar.jpg&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>0524-注册制改革背景</title>
+      <link>/post/0524-%E6%B3%A8%E5%86%8C%E5%88%B6%E6%94%B9%E9%9D%A9%E8%83%8C%E6%99%AF/</link>
+      <pubDate>Wed, 24 May 2023 17:15:56 +0800</pubDate>
+      <guid>/post/0524-%E6%B3%A8%E5%86%8C%E5%88%B6%E6%94%B9%E9%9D%A9%E8%83%8C%E6%99%AF/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://mp.weixin.qq.com/s/ugjjR5EMiJF-1ZZd2VEHIw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;北大国发院&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2023年2月1日，在春节假期刚刚结束的第五天，中国证监会牵头就全面注册制的相关制度规则公开征求意见，同日，上海证券交易所（简称“上交所”）、深圳证券交易所（简称“深交所”）、北京证券交易所（简称“北交所”）以及全国中小企业股份转让系统有限责任公司（简称“股转公司”）等相关部门同步发布了全面注册制配套业务规则的征求意见稿。短短两周后，有关全面注册制的165部制度规则于2023年2月17日同步发布实施。&lt;/p&gt;
+&lt;p&gt;一时间，有关全面注册制的各类资讯层出不穷，在海量信息冲击之下，普通投资者急需找到一条主线，以协助自己理解全面注册制。本文从现状入手，通过回溯全面注册制的演进过程，简要介绍全面注册制对资本市场带来的影响。&lt;/p&gt;
+&lt;h1 id=&#34;一此次发布实施的全面注册制的具体内容&#34;&gt;一、此次发布实施的全面注册制的具体内容&lt;/h1&gt;
+&lt;p&gt;从制度发布角度来看，此次发布实施的165部制度规则体现了注册制“全覆盖”的改革特点，制度设计涵盖了发行、上市、再融资、并购重组、退市、监管执法等各个环节的全部流程。&lt;/p&gt;
+&lt;p&gt;众多制度的同步发布，向广大市场参与者呈现了全面注册制的设计思路，既借鉴全球最佳实践，又体现了中国特色和发展阶段特征的原则，突出了“以信息披露为核心，把选择权交给市场”这一注册制改革的本质。&lt;/p&gt;
+&lt;p&gt;总体来看，全面注册制实施后，企业无论是初次步入资本市场，还是从资本市场中退出，都时刻在监管机构和市场参与者的共同监督之下，企业经营的规范性以及资本运作的可预期性都更加透明，有助于“看不见的手”调配市场资源。&lt;/p&gt;
+&lt;h1 id=&#34;二从多层次资本市场的发展过程中理解全面注册制&#34;&gt;二、从多层次资本市场的发展过程中理解全面注册制&lt;/h1&gt;
+&lt;p&gt;统筹完善多层次资本市场体系是全面注册制的核心任务之一，而多层次资本市场的发展过程本身也蕴含了全面注册制的演进逻辑。&lt;/p&gt;
+&lt;p&gt;在介绍多层次资本市场时，比较常用的是一个分为若干层级的三角形，最底层是非公众公司，之后向上递进到新三板的基础层、创新层，而后再到北交所、科创板、创业板和主板。但是，由于这个“三角形”中的排序与现实中各板块出现的时间顺序存在较大差别，从空间维度的解释无法将时间维度中蕴含的内在逻辑讲清楚。因此，如要真正理解全面注册制之下“多层次资本市场”的模样，一切还需要从九十年代讲起。&lt;/p&gt;
+&lt;h2 id=&#34;1a股创业板的创立之路&#34;&gt;1、A股创业板的创立之路&lt;/h2&gt;
+&lt;p&gt;二十世纪九十年代，为了响应深化改革的呼声，我国大陆先后筹建了两家全国性的证券交易场所，其中上海证券交易所（简称“上交所”）于1990年12月19日正式开业，深圳证券交易所（简称“深交所”）宣布于1990年12月1日开始营业，于次年4月宣布正式成立。从营业时间和成立时间的先后顺序上可以看出，上交所和深交所之间的竞争在此时就已经开始[1]。&lt;/p&gt;
+&lt;p&gt;早在1998年12月，国家发展计划委员会（国家发展和改革委员会的前身）就曾向国务院提出“尽早研究设立创业板块股票市场问题”，[2]而在创业板的设立问题上，深交所占得了先机。根据2004年5月18日在深交所官网登载的《证监会有关负责人就深交所设立中小企业板块答记者问》，深交所在2000年初就曾经筹划直接设立创业板，但是，在新世纪之初，包含美国纳斯达克以及香港创业板在内的绝大多数类似创业板的市场股价大幅下挫，使得市场对于创业板的预期产生重大调整，在此背景下，我国创业板的推出进程随之趋缓。[3]&lt;/p&gt;
+&lt;p&gt;2004年1月31日，国务院发布《国务院关于推进资本市场改革开放和稳定发展的若干意见》（国发〔2004〕3号，简称“国九条”），国九条是首次提出“多层次资本市场体系”这一概念的官方文件，而更为重要的是，国九条明确提出了分步推进创业板市场建设的思路，这为深交所后续的创业板筹备工作指明了方向。国九条明确指出多层次资本市场体系需要满足不同类型企业的融资需求，并提出对证券发行上市的条件做出差异化的配套安排，这与注册制时代注重“板块定位”的理念一脉相承。&lt;/p&gt;
+&lt;p&gt;2004年5月，中国证监会批准深交所设立中小企业板块（简称“中小板”），这是中国证监会落实“国九条”提出的分步推进创业板市场建设要求的实际步骤。相较于主板，中小板的服务定位是安排拟发行上市企业中流通股本规模相对较小的公司在该板块上市。[4]需要注意的是，中小板是深交所主板的组成部分，而当深交所开立中小板以来，深主板虽仍接受企业的IPO申报，但仅有少数几家公司完成发行上市，基本处于停止状态。经过16年的发展，中小板上市公司总体不断发展壮大，但深主板和中小板并行期间也暴露出诸如板块同质化、主板结构长期固化等问题，2021年4月，经国务院同意，中国证监会批准深交所主板和中小板合并为深主板。&lt;/p&gt;
+&lt;p&gt;2009年10月23日下午，创业板在深圳隆重举行启动仪式，而后于2009年10月30日上午，特锐德等28家公司人民币普通股股票登陆创业板，深交所为首批创业板公司亦举行了隆重的上市仪式。自此，在各方的共同努力下，酝酿多年的创业板正式推出，这是多层次资本市场建设过程中的重要里程碑。[5]创业板不负众望，在设立之后充分发挥了为成长型、创新型企业在资本市场直接融资的重要作用，激发了一级股权市场和二级股票市场的活力。&lt;/p&gt;
+&lt;p&gt;##　2、A股注册制先行者——科创板&lt;/p&gt;
+&lt;p&gt;2013年11月12日，中国共产党第十八届中央委员会第三次全体会议通过了《中共中央关于全面深化改革若干重大问题的决定》，该决定中提到“健全多层次资本市场体系，推进股票发行注册制改革，多渠道推动股权融资，发展并规范债券市场，提高直接融资比重。”[6]这是“注册制”一词首次出现在正式的官方语境中，而这一次注册制改革的重任首先落在了上交所的肩上。&lt;/p&gt;
+&lt;p&gt;2015年3月20日，上交所在第一期新闻发布会上提及，“上交所正按照有关安排和部署，平稳有序地开展相关准备工作，全力配合推进注册制改革”。以及“结合注册制改革，调整发行上市条件，积极探索上交所股票市场内部分层，推进新兴产业板建设，提高上交所市场的包容性和覆盖面。”此次发布会上明确指出了结合股票发行注册制改革，加快推动新兴板的建设工作。而这个新兴板正是此后曾备受市场关注但并没有正式推出的战略新兴板。[7]&lt;/p&gt;
+&lt;p&gt;2019年1月23日，中央全面深化改革委员会第六次会议审议通过了《在上海证券交易所设立科创板并试点注册制总体实施方案》以及《关于在上海证券交易所设立科创板并试点注册制的实施意见》，这是设立科创板并试点注册制的重要里程碑节点。2019年7月22日，作为我国首个注册制板块的科创板迎来了首批上市公司。&lt;/p&gt;
+&lt;p&gt;科创板在上交所设立后，注册制的帷幕正式拉开，此后注册制的推行进入了快车道，创业板试点注册制、北交所设立以及全面注册制推行都是快节奏的逐次落地实施，全面注册制下的多层次资本市场架构已经形成。&lt;/p&gt;
+&lt;h1 id=&#34;三全面注册制带来的影响&#34;&gt;三、全面注册制带来的影响&lt;/h1&gt;
+&lt;p&gt;在为期半个月的征求意见完成后，全面注册制实现了165部新规的同期发布，这在我国证券市场发展史中是极为罕见的。&lt;/p&gt;
+&lt;p&gt;从前文梳理的多层次资本市场及注册制的历史沿革中可以看出，我国为全面注册制的实行已经酝酿了十余年，中间虽有反复但前进方向始终不变，因此可预期的是，全面注册制的实行必然会对我国资本市场带来重大且持久的影响。&lt;/p&gt;
+&lt;h2 id=&#34;1以信息披露为核心和坚持市场化原则对资本市场的影响&#34;&gt;1、“以信息披露为核心”和“坚持市场化原则”对资本市场的影响&lt;/h2&gt;
+&lt;p&gt;我国的注册制改革从酝酿到全面落地已经经过了十年，在此过程中，各市场参与者对于注册制的定义做出了不同的解释，其中，具有普遍共识的是注册制的两个基本理念，即“以信息披露为核心”和“坚持市场化原则”。&lt;/p&gt;
+&lt;p&gt;“以信息披露为核心”是注册制与核准制的最大区别之一，在具体操作层面，审核部门已尽可能的将证券发行注册程序中涉及的实质性门槛转化为信息披露要求。同时，为了确保信息披露的真实性、准确性、完整性和及时性，监管机构建立了覆盖证券发行各环节全流程的制度规则，增强了各市场主体的责任承担，资本市场领域腐败“零容忍”的理念对市场中的投机者、造假者起到了有效震慑，而这正是维持信息披露质量的重要手段。&lt;/p&gt;
+&lt;p&gt;在A股市场中，曾存在这样一种现象，企业在成功IPO前的规范化程度最高，而这种规范运作水平在企业完成上市后却无法延续。在全面注册制时代，这个问题将会得到根本上的解决，依托于资本市场法治建设的进步，现有法律法规对市场参与主体的责任追究机制逐步完善，增强和明确了各相关方违法违规时的民事责任和刑事责任；同时，“以信息披露为核心”的理念使证券发行上市的全流程透明化，使得公众监督成为了可能，有利于上市公司维持住其在上市之初的规范性。&lt;/p&gt;
+&lt;p&gt;“坚持市场化原则”主要有两个层次的含义，分别是发行承销市场化和退市机制市场化，即进出资本市场的双向市场化。发行承销市场化在本次全面注册制的相关制度中出现频次较高，核心在于市场化发行，市场参与者对新股发行价格不再有统一的预期，而是需要基于以机构投资者为参与主体的市场化询价机制；退市机制市场化是全面深化资本市场改革的重要内容，也是全面注册制改革的重要组成部分，建立完善的退市制度和标准，能够使企业退市实现规范化和流程化，可以发挥资本市场的价值发现功能，优化市场生态，进而保护投资者合法权益。&lt;/p&gt;
+&lt;p&gt;长期以来，我国A股市场上存在着“只进不出”的现象，以至于“空壳企业”无法出清。并且，这些壳公司在没有退市压力的同时，相关方还能够通过炒壳、卖壳的方式实现超额收益，对资本市场的秩序造成了不良影响。常态化的退市机制明确后，将会有效打击资本市场中的投机行为，使市场参与者的投资趋于理性。在优胜劣汰的机制之下，“无形的手”得以被激活，可以引导市场资源向重点行业、优质企业流动。&lt;/p&gt;
+&lt;h2 id=&#34;2全面注册制对市场风险化解以及资源配置带来的影响&#34;&gt;2、全面注册制对市场风险化解以及资源配置带来的影响&lt;/h2&gt;
+&lt;p&gt;“以信息披露为核心”和“坚持市场化原则”最终的落脚点是相同的，二者都可以对市场资源的配置带来显著影响。&lt;/p&gt;
+&lt;p&gt;全面注册制强调信息透明，企业在登陆资本市场的各个环节都有不同的信息披露要求，有效的信息披露机制可以减少重要信息在传递过程中出现的误差，有利于投资者独立自主做出决策，形成真正的市场化定价机制，进一步将一级、二级资本市场的估值价差引导进入合理区间，优化资金、资源流向的同时也降低了金融风险的蓄积。&lt;/p&gt;
+&lt;p&gt;全面注册制强调板块定位，这是我国多层次资本市场多年建设的成果，通过对上市指标进行多元化的设置，增加了资本市场对优秀企业的覆盖面，同时也为资本市场中具有不同投资偏好的资金持有者提供初步筛选，使得大量的中小型企业得以通过资本市场进行直接融资，一定程度上能够缓解这些企业“融资难”和“融资贵”的困境。&lt;/p&gt;
+&lt;p&gt;显而易见的，在“以信息披露为中心”、“坚持市场化原则”的理念驱动下，全面注册制将为我国资本市场带来更多的源头活水，有利于拥有核心技术和发展潜力的企业“出圈”，并且在市场化运行过程中，由“无形的手”完成劣币的淘汰。在此过程中，各上市公司将拥有更强的寻找新的利润增长点的动力，有利于企业内生的自主创新，同时也有利于并购合作等模式的开展。一级市场股权和二级市场股票在全面注册制落地的契机之下，可以进一步回归价值投资的逻辑主线，更多的信息披露意味着“增加了分析，减少了赌性”。&lt;/p&gt;
+&lt;p&gt;值得指出的是，全面注册制并不意味着企业上市的门槛降低了，恰好相反，在审核透明度提高之后，公权力的运行全程透明了，企业的规范运作水平同样会及时的暴露在阳光下。此外，深化“放管服”改革不意味着一放了之，在立体追责体系之下，企业和证券服务机构的违法成本大幅增加。因此说，全面注册制对各市场参与者的合规、风控能力提出了更高的要求。&lt;/p&gt;
+&lt;p&gt;全面注册制的制度发布非一日之功，相关制度的具体执行同样会耗时甚久，可以预见的是，随着各种类型业务的落地，未来会有更多的政策修订和补充出台，作为市场参与者，应当具备一定的前瞻性和敏锐性，真正适应我国的全面注册制时代。&lt;/p&gt;
+&lt;h1 id=&#34;资料来源与作者简介&#34;&gt;资料来源与作者简介&lt;/h1&gt;
+&lt;p&gt;作者简介：
+屠博，北京国信中数投资管理有限公司合规风控负责人。
+黄卓，北京大学国家发展研究院助理院长、长聘副教授，北京大学长沙计算与数字经济研究院副院长，北京大学数字金融研究中心常务副主任。&lt;/p&gt;
+&lt;p&gt;[1] 资料来源：阚治东《荣辱二十年——我的股市人生》&lt;/p&gt;
+&lt;p&gt;[2] 资料来源：李佑松. 创业板该登场了[J]. 产权导刊,2008(9):33-34. DOI:10.3969/j.issn.1672-8890.2008.09.009.&lt;/p&gt;
+&lt;p&gt;[3] 资料来源：深交所官网“证监会有关负责人就深交所设立中小企业板块答记者问”（http://www.szse.cn/aboutus/trends/news/t20040518_517121.html）&lt;/p&gt;
+&lt;p&gt;[4] 资料来源：深交所官网“深交所就设立中小企业板块有关问题答记者问”（http://www.szse.cn/aboutus/trends/news/t20040519_517124.html）&lt;/p&gt;
+&lt;p&gt;[5] 资料来源：深交所官网“创业板首批28家公司10月30日上市”（http://www.szse.cn/aboutus/trends/news/t20091102_517893.html）&lt;/p&gt;
+&lt;p&gt;[6] 资料来源：中国政府网官网“中共中央关于全面深化改革若干重大问题的决定”（http://www.gov.cn/jrzg/2013-11/15/content_2528179.htm）&lt;/p&gt;
+&lt;p&gt;[7] 资料来源：上交所官网“第一期新闻发布会”（http://www.sse.com.cn/aboutus/mediacenter/conference/c/c_20150912_3987018.shtml）&lt;/p&gt;
+&lt;p&gt;本文刊于《证券市场周刊》&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>极端冲击下国际主要大宗商品风险溢出效应研究——来自分位数连通性的新证据</title>
+      <link>/publication/01-commodity/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/01-commodity/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Diagram Support</title>
+      <link>/post/diagram-support/</link>
+      <pubDate>Wed, 31 Mar 2021 13:11:22 +0800</pubDate>
+      <guid>/post/diagram-support/</guid>
+      <description>&lt;p&gt;Eureka supports the rendering of diagrams by using Mermaid.&lt;/p&gt;
+&lt;p&gt;Please include the Mermaid diagram as below. Every mermaid chart/graph/diagram definition, has to have separate &lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt; tags.&lt;/p&gt;
+&lt;p&gt;In order to render the HTML code in the Markdown file correctly, please make sure that &lt;code&gt;markup.goldmark.renderer.unsafe&lt;/code&gt; in &lt;code&gt;config.yaml&lt;/code&gt; is true.&lt;/p&gt;
+&lt;p&gt;Here is one mermaid diagram:&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;
+  graph TD
+  A[Client] --&gt; B[Load Balancer]
+  B --&gt; C[Server1]
+  B --&gt; D[Server2]
+&lt;/div&gt;
+&lt;p&gt;And here is another:&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;
+  graph TD
+  A[Client] --&gt;|tcp_123| B(Load Balancer)
+  B --&gt;|tcp_456| C[Server1]
+  B --&gt;|tcp_456| D[Server2]
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Math Support</title>
+      <link>/post/math-support/</link>
+      <pubDate>Fri, 20 Nov 2020 22:52:56 +0800</pubDate>
+      <guid>/post/math-support/</guid>
+      <description>&lt;p&gt;Eureka supports the rendering of mathematical formulas by using KaTeX.&lt;/p&gt;
+&lt;p&gt;You can type inline equation like $E=mc^2$.&lt;/p&gt;
+&lt;p&gt;And also displayed equation like:&lt;/p&gt;
+&lt;div&gt;
+\[ \int u \frac{dv}{dx}\, dx=uv-\int \frac{du}{dx}v\,dx \]
+&lt;/div&gt;
+&lt;p&gt;Matrix:&lt;/p&gt;
+&lt;div&gt;
+\[ \begin{pmatrix} a&amp;b\\c&amp;d \end{pmatrix} \quad
+\begin{bmatrix} a&amp;b\\c&amp;d \end{bmatrix} \quad
+\begin{Bmatrix} a&amp;b\\c&amp;d \end{Bmatrix} \quad
+\begin{vmatrix} a&amp;b\\c&amp;d \end{vmatrix} \]
+&lt;/div&gt;
+&lt;p&gt;Aligned equation:&lt;/p&gt;
+&lt;div&gt;
+\[\begin{aligned}
+x ={}&amp; a+b+c+{} \\
+&amp;d+e+f+g
+\end{aligned}\]
+&lt;/div&gt;
+&lt;p&gt;And many other kinds of formulas.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Featured Image</title>
+      <link>/post/featured-image/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <guid>/post/featured-image/</guid>
+      <description>&lt;p&gt;Maecenas maximus, elit in ornare porttitor, nisi eros hendrerit nisl, sed fermentum nulla urna blandit tellus.&lt;/p&gt;
+&lt;h2 id=&#34;nullam-tempor-lectus-quis&#34;&gt;Nullam tempor lectus quis&lt;/h2&gt;
+&lt;p&gt;Aenean vehicula non elit id varius. Mauris condimentum lacinia mollis. Nullam quis cursus metus, eget mattis erat. Aliquam nec ante lacus. In tellus augue, iaculis vitae sollicitudin quis, tempor nec urna. Aenean ut fermentum erat, vel gravida ligula. Etiam sed ex aliquet, egestas nibh eu, iaculis mi. Nunc sit amet fermentum ex. Sed convallis ac arcu tristique rhoncus. Suspendisse potenti.&lt;/p&gt;
+&lt;p&gt;Proin justo purus, porttitor et semper ut, commodo et nibh. Nam malesuada id arcu in tempus. Ut ornare vestibulum ultrices. Nullam tempor lectus quis ornare viverra. Vestibulum fringilla turpis ac leo fermentum, et dictum nisi consectetur. Integer ullamcorper fringilla mi, non volutpat sapien ultrices vel. Phasellus at blandit neque, pulvinar rutrum ante.&lt;/p&gt;
+&lt;p&gt;Etiam auctor, elit vel pretium consequat, orci magna aliquet dolor, quis varius felis purus ut elit. Sed ultrices feugiat blandit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Ut accumsan pulvinar purus et ornare. Vestibulum et tortor eget lacus hendrerit porttitor. Cras dapibus ac est posuere mattis. Pellentesque eu ligula ultricies, interdum nulla vel, sollicitudin ligula. Suspendisse sit amet massa sed dui placerat pharetra. Vestibulum massa sem, congue in vehicula vitae, aliquam eu mi. Suspendisse eget laoreet velit. Cras felis enim, molestie in enim nec, mollis venenatis lectus. Donec tincidunt, mi vel interdum varius, urna metus aliquet velit, ut venenatis nulla orci nec lectus. Nam id tortor imperdiet, tempor massa eget, congue nisl. Suspendisse venenatis facilisis orci, non scelerisque risus volutpat sit amet.&lt;/p&gt;
+&lt;h2 id=&#34;vestibulum-et-tortor-eget&#34;&gt;Vestibulum et tortor eget&lt;/h2&gt;
+&lt;p&gt;Aliquam posuere diam non ligula tristique congue. Donec dignissim eu justo sed dictum. Praesent at massa erat. Praesent mollis viverra velit. Aliquam maximus pharetra massa a efficitur. Sed tempus egestas purus sit amet tempor. Donec porttitor varius nisi, eu venenatis risus gravida id. Pellentesque blandit nunc non urna consectetur commodo. Sed at feugiat felis, sit amet malesuada nunc. Curabitur in tempor nisl. Pellentesque accumsan est orci, in commodo felis accumsan facilisis. Nulla maximus suscipit posuere. Nulla et consequat mauris, fermentum ultricies tellus.&lt;/p&gt;
+&lt;p&gt;Maecenas consectetur ac libero vitae congue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec tortor eu lectus placerat varius. Mauris a nisi consectetur, ornare dolor ut, rutrum ligula. Sed enim nisl, fermentum a dictum vel, vestibulum ut odio. Suspendisse laoreet quis urna eu vestibulum. Maecenas commodo augue ex, eu egestas nulla aliquet ut. Cras aliquam dui ipsum, nec sodales erat convallis sit amet. Donec porttitor posuere hendrerit. Sed imperdiet at purus eget tempus. In ac est urna.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Writing technical content in Academic</title>
+      <link>/post/writing-technical-content/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/post/writing-technical-content/</guid>
+      <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;h3 id=&#34;code&#34;&gt;Code&lt;/h3&gt;
+&lt;p&gt;Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the &lt;code&gt;highlight&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```python
+import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;math&#34;&gt;Math&lt;/h3&gt;
+&lt;p&gt;Academic supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code&gt;math&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file.&lt;/p&gt;
+&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;$...$&lt;/code&gt; or &lt;code&gt;$$...$$&lt;/code&gt;, respectively.&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;$$\gamma_{n} = \frac{ 
+\left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T 
+\left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
+{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left |\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right |^2}$$&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;$\nabla F(\mathbf{x}_{n})$&lt;/code&gt; renders as $\nabla F(\mathbf{x}_{n})$.&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the &lt;code&gt;\\\\&lt;/code&gt; math linebreak:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;$$f(k;p_0^*) = \begin{cases} p_0^* &amp;amp; \text{if }k=1, \\\\
+1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;$$f(k;p_0^&lt;em&gt;) = \begin{cases} p_0^&lt;/em&gt; &amp;amp; \text{if }k=1, \\&lt;br&gt;
+1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$&lt;/p&gt;
+&lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
+&lt;p&gt;Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
+&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+graph TD
+A[Hard] --&amp;gt;|Text| B(Round)
+B --&amp;gt; C{Decision}
+C --&amp;gt;|One| D[Result 1]
+C --&amp;gt;|Two| E[Result 2]
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;graph TD
+A[Hard] --&amp;gt;|Text| B(Round)
+B --&amp;gt; C{Decision}
+C --&amp;gt;|One| D[Result 1]
+C --&amp;gt;|Two| E[Result 2]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+sequenceDiagram
+Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+loop Healthcheck
+    John-&amp;gt;&amp;gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&amp;gt;&amp;gt;Alice: Great!
+John-&amp;gt;&amp;gt;Bob: How about you?
+Bob--&amp;gt;&amp;gt;John: Jolly good!
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;sequenceDiagram
+Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+loop Healthcheck
+    John-&amp;gt;&amp;gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&amp;gt;&amp;gt;Alice: Great!
+John-&amp;gt;&amp;gt;Bob: How about you?
+Bob--&amp;gt;&amp;gt;John: Jolly good!
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;An example &lt;strong&gt;Gantt diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+gantt
+section Section
+Completed :done,    des1, 2014-01-06,2014-01-08
+Active        :active,  des2, 2014-01-07, 3d
+Parallel 1   :         des3, after des1, 1d
+Parallel 2   :         des4, after des1, 1d
+Parallel 3   :         des5, after des3, 1d
+Parallel 4   :         des6, after des4, 1d
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;gantt
+section Section
+Completed :done,    des1, 2014-01-06,2014-01-08
+Active        :active,  des2, 2014-01-07, 3d
+Parallel 1   :         des3, after des1, 1d
+Parallel 2   :         des4, after des1, 1d
+Parallel 3   :         des5, after des3, 1d
+Parallel 4   :         des6, after des4, 1d
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;An example &lt;strong&gt;class diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+classDiagram
+Class01 &amp;lt;|-- AveryLongClass : Cool
+&amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01
+Class09 --&amp;gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&amp;gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+class Class10 {
+  &amp;lt;&amp;lt;service&amp;gt;&amp;gt;
+  int id
+  size()
+}
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;classDiagram
+Class01 &amp;lt;|-- AveryLongClass : Cool
+&amp;lt;&amp;lt;interface&amp;gt;&amp;gt; Class01
+Class09 --&amp;gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&amp;gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+class Class10 {
+  &amp;lt;&amp;lt;service&amp;gt;&amp;gt;
+  int id
+  size()
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;An example &lt;strong&gt;state diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+stateDiagram
+[*] --&amp;gt; Still
+Still --&amp;gt; [*]
+Still --&amp;gt; Moving
+Moving --&amp;gt; Still
+Moving --&amp;gt; Crash
+Crash --&amp;gt; [*]
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;stateDiagram
+[*] --&amp;gt; Still
+Still --&amp;gt; [*]
+Still --&amp;gt; Moving
+Moving --&amp;gt; Still
+Moving --&amp;gt; Crash
+Crash --&amp;gt; [*]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;todo-lists&#34;&gt;Todo lists&lt;/h3&gt;
+&lt;p&gt;You can even write your todo lists in Academic too:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;- [x] Write math example
+- [x] Write diagram example
+- [ ] Do something else
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write math example&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write diagram example&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Do something else&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
+&lt;p&gt;Represent your data in tables:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;First Header&lt;/th&gt;
+&lt;th&gt;Second Header&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;asides&#34;&gt;Asides&lt;/h3&gt;
+&lt;p&gt;Academic supports a 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/#alerts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcode for asides&lt;/a&gt;, also referred to as &lt;em&gt;notices&lt;/em&gt;, &lt;em&gt;hints&lt;/em&gt;, or &lt;em&gt;alerts&lt;/em&gt;. By wrapping a paragraph in &lt;code&gt;{{% alert note %}} ... {{% /alert %}}&lt;/code&gt;, it will render as an aside.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% alert note %}}
+A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+{{% /alert %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;spoilers&#34;&gt;Spoilers&lt;/h3&gt;
+&lt;p&gt;Add a spoiler to a page to reveal text, such as an answer to a question, after a button is clicked.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; spoiler text=&amp;quot;Click to view the spoiler&amp;quot; &amp;gt;}}
+You found me!
+{{&amp;lt; /spoiler &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;spoiler &#34; &gt;
+  &lt;p&gt;
+    &lt;a class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; href=&#34;#spoiler-1&#34; role=&#34;button&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;spoiler-1&#34;&gt;
+      Click to view the spoiler
+    &lt;/a&gt;
+  &lt;/p&gt;
+  &lt;div class=&#34;collapse card &#34; id=&#34;spoiler-1&#34;&gt;
+    &lt;div class=&#34;card-body&#34;&gt;
+      You found me!
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
+&lt;p&gt;Academic enables you to use a wide range of 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/#icons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;icons from &lt;em&gt;Font Awesome&lt;/em&gt; and &lt;em&gt;Academicons&lt;/em&gt;&lt;/a&gt; in addition to 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/#emojis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;emojis&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here are some examples using the &lt;code&gt;icon&lt;/code&gt; shortcode to render icons:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; icon name=&amp;quot;terminal&amp;quot; pack=&amp;quot;fas&amp;quot; &amp;gt;}} Terminal  
+{{&amp;lt; icon name=&amp;quot;python&amp;quot; pack=&amp;quot;fab&amp;quot; &amp;gt;}} Python  
+{{&amp;lt; icon name=&amp;quot;r-project&amp;quot; pack=&amp;quot;fab&amp;quot; &amp;gt;}} R
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-terminal  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Terminal&lt;br&gt;
+
+  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Python&lt;br&gt;
+
+  &lt;i class=&#34;fab fa-r-project  pr-1 fa-fw&#34;&gt;&lt;/i&gt; R&lt;/p&gt;
+&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>/post/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/post/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
+pectora summo.&lt;/p&gt;
+&lt;p&gt;Redit teque digerit hominumque toris verebor lumina non cervice
+subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc
+caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis
+lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Exierant elisi ambit vivere dedere&lt;/li&gt;
+&lt;li&gt;Duce pollice&lt;/li&gt;
+&lt;li&gt;Eris modo&lt;/li&gt;
+&lt;li&gt;Spargitque ferrea quos palude&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus
+silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria
+tractus malis.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Comas hunc haec pietate fetum procerum dixit&lt;/li&gt;
+&lt;li&gt;Post torum vates letum Tiresia&lt;/li&gt;
+&lt;li&gt;Flumen querellas&lt;/li&gt;
+&lt;li&gt;Arcanaque montibus omnes&lt;/li&gt;
+&lt;li&gt;Quidem et&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;vagus-elidunt&#34;&gt;Vagus elidunt&lt;/h1&gt;
+&lt;p&gt;&lt;svg class=&#34;canon&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; overflow=&#34;visible&#34; viewBox=&#34;0 0 496 373&#34; height=&#34;373&#34; width=&#34;496&#34;&gt;&lt;g fill=&#34;none&#34;&gt;&lt;path stroke=&#34;#000&#34; stroke-width=&#34;.75&#34; d=&#34;M.599 372.348L495.263 1.206M.312.633l494.95 370.853M.312 372.633L247.643.92M248.502.92l246.76 370.566M330.828 123.869V1.134M330.396 1.134L165.104 124.515&#34;&gt;&lt;/path&gt;&lt;path stroke=&#34;#ED1C24&#34; stroke-width=&#34;.75&#34; d=&#34;M275.73 41.616h166.224v249.05H275.73zM54.478 41.616h166.225v249.052H54.478z&#34;&gt;&lt;/path&gt;&lt;path stroke=&#34;#000&#34; stroke-width=&#34;.75&#34; d=&#34;M.479.375h495v372h-495zM247.979.875v372&#34;&gt;&lt;/path&gt;&lt;ellipse cx=&#34;498.729&#34; cy=&#34;177.625&#34; rx=&#34;.75&#34; ry=&#34;1.25&#34;&gt;&lt;/ellipse&gt;&lt;ellipse cx=&#34;247.229&#34; cy=&#34;377.375&#34; rx=&#34;.75&#34; ry=&#34;1.25&#34;&gt;&lt;/ellipse&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Van de Graaf Canon&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;mane-refeci-capiebant-unda-mulcebat&#34;&gt;Mane refeci capiebant unda mulcebat&lt;/h2&gt;
+&lt;p&gt;Victa caducifer, malo vulnere contra
+dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere
+furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. &lt;strong&gt;Faces illo pepulere&lt;/strong&gt; tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.&lt;/p&gt;
+&lt;p&gt;Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli
+Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare
+Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert
+ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae
+vulnus haerentia iuste et exercebat, sui et.&lt;/p&gt;
+&lt;p&gt;Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel &lt;strong&gt;mitis temploque&lt;/strong&gt; vocatus, inque alis, &lt;em&gt;oculos nomen&lt;/em&gt; non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem
+Propoetides &lt;strong&gt;parte&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Display Jupyter Notebooks with Academic</title>
+      <link>/post/eg2/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/post/eg2/</guid>
+      <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
+Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;Welcome to Academic!
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;install-python-and-jupyterlab&#34;&gt;Install Python and JupyterLab&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and JupyterLab.&lt;/p&gt;
+&lt;p&gt;Alternatively, install JupyterLab with &lt;code&gt;pip3 install jupyterlab&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
+&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code&gt; with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+cd &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+jupyter lab index.ipynb
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The &lt;code&gt;jupyter&lt;/code&gt; command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p&gt;
+&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
+&lt;p&gt;The first cell of your Jupter notebook will contain your post metadata (
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;front matter&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;In Jupter, choose &lt;em&gt;Markdown&lt;/em&gt; as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;---
+title: My post&#39;s title
+date: 2019-09-01
+
+# Put any other Academic metadata here...
+---
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Edit the metadata of your post, using the 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; as a guide to the available options.&lt;/p&gt;
+&lt;p&gt;To set a 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
+&lt;p&gt;For other tips, such as using math, see the guide on 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Display Jupyter Notebooks with Academic</title>
+      <link>/post/jupyter/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/post/jupyter/</guid>
+      <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
+Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;Welcome to Academic!
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;install-python-and-jupyterlab&#34;&gt;Install Python and JupyterLab&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and JupyterLab.&lt;/p&gt;
+&lt;p&gt;Alternatively, install JupyterLab with &lt;code&gt;pip3 install jupyterlab&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
+&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code&gt; with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+cd &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+jupyter lab index.ipynb
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The &lt;code&gt;jupyter&lt;/code&gt; command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p&gt;
+&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
+&lt;p&gt;The first cell of your Jupter notebook will contain your post metadata (
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;front matter&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;In Jupter, choose &lt;em&gt;Markdown&lt;/em&gt; as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;---
+title: My post&#39;s title
+date: 2019-09-01
+
+# Put any other Academic metadata here...
+---
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Edit the metadata of your post, using the 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; as a guide to the available options.&lt;/p&gt;
+&lt;p&gt;To set a 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
+&lt;p&gt;For other tips, such as using math, see the guide on 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internal Project</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Academic: the website builder for Hugo</title>
+      <link>/post/eg1/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/post/eg1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or 
+&lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 
+&lt;a href=&#34;#install&#34;&gt;&lt;strong&gt;Get Started&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View the &lt;strong&gt;documentation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 
+&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Ask a question&lt;/strong&gt; on the forum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👥 
+&lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: 
+&lt;a href=&#34;https://twitter.com/source_themes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@source_themes&lt;/a&gt; 
+&lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; 
+&lt;a href=&#34;https://twitter.com/search?q=%23MadeWithAcademic&amp;amp;src=typd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithAcademic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 
+&lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating?&lt;/strong&gt; View the 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and 
+&lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;❤️ &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
+&lt;ul&gt;
+&lt;li&gt;☕️ 
+&lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Donate a coffee&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💵 
+&lt;a href=&#34;https://www.patreon.com/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Become a backer on &lt;strong&gt;Patreon&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🖼️ 
+&lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Decorate your laptop or journal with an Academic &lt;strong&gt;sticker&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👕 
+&lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wear the &lt;strong&gt;T-shirt&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👩‍💻 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/contribute/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Contribute&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-academic-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; data-caption=&#34;Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34;&gt;
+
+
+  &lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Key features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable 
+&lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and 
+&lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - 
+&lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, 
+&lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 15+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Academic comes with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can  choose their preferred mode - click the sun/moon icon in the top right of the 
+&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/#custom-theme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;customizable&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;
+&lt;a href=&#34;https://github.com/sourcethemes/academic-admin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Admin&lt;/a&gt;:&lt;/strong&gt; An admin tool to import publications from BibTeX or import assets for an offline site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;
+&lt;a href=&#34;https://github.com/sourcethemes/academic-scripts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Scripts&lt;/a&gt;:&lt;/strong&gt; Scripts to help migrate content to new versions of Academic&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
+&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-web-browser&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;one-click install using your web browser (recommended)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;install on your computer using &lt;strong&gt;Git&lt;/strong&gt; with the Command Prompt/Terminal app&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;install on your computer by downloading the &lt;strong&gt;ZIP files&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;install on your computer with &lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Then 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;personalize and deploy your new site&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View the Update Guide&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on 
+&lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt; to help keep track of 
+&lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;updates&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present 
+&lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the 
+&lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>中美股市信息交易比率的对比研究</title>
+      <link>/publication/01-commodity-copy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/01-commodity-copy/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

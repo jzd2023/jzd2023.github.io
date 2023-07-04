@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>操作 | 2023 | Jzd</title>
+    <link>/category/%E6%93%8D%E4%BD%9C/</link>
+      <atom:link href="/category/%E6%93%8D%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+    <description>操作</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2023</copyright><lastBuildDate>Wed, 14 Jun 2023 16:22:36 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>操作</title>
+      <link>/category/%E6%93%8D%E4%BD%9C/</link>
+    </image>
+    
+    <item>
+      <title>0614-常用命令</title>
+      <link>/post/0614-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link>
+      <pubDate>Wed, 14 Jun 2023 16:22:36 +0800</pubDate>
+      <guid>/post/0614-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid>
+      <description>&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;hugo # 生成public文件夹
+cd public
+git init
+git remote add origin git@github.com:jzd2023/jzd2023.github.io.git
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;先在根目录中输入&lt;code&gt;hugo&lt;/code&gt;，然后进入&lt;code&gt;public&lt;/code&gt;文件夹中，输入下面3条命令。&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git add .
+git commit -m &#39;init&#39;
+git push -f --set-upstream origin master
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;新建页面&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;hugo new posts/&amp;lt;name.md&amp;gt;
+
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>0605_基础操作</title>
+      <link>/post/0605-%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C/</link>
+      <pubDate>Mon, 05 Jun 2023 11:39:42 +0800</pubDate>
+      <guid>/post/0605-%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;常用命令&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;hugo new posts/&amp;lt;your_post.md&amp;gt;
+
+hugo new -k docs docs/&amp;lt;your_doc&amp;gt;/&amp;lt;your_page.md&amp;gt;
+# 重新创建
+hugo new -k docs docs
+
+hugo new -k authors authors/&amp;lt;your_author&amp;gt;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;转自：
+&lt;a href=&#34;https://www.wangchucheng.com/zh/docs/hugo-eureka/content-management/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wangchucheng.com&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;内容管理&#34;&gt;内容管理&lt;/h2&gt;
+&lt;p&gt;在
+&lt;a href=&#34;https://www.wangchucheng.com/zh/docs/hugo-eureka/homepage-configuration/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;主页配置&lt;/a&gt;中，你已经成功地构建了网站主页。接下来我们将添加一些内容。本文将带领你了解网站内容结构及编辑技巧。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;pre&gt;&lt;code&gt;如果你的区域存在难以访问GitHub的问题，你可以将所有涉及到GitHub的网址替换为[Gitee镜像](https://gitee.com/wangchucheng/hugo-eureka/)。例如将`https://github.com/wangchucheng/hugo-eureka/`替换为`https://gitee.com/wangchucheng/hugo-eureka/`即可。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;目录结构&#34;&gt;目录结构&lt;/h2&gt;
+&lt;p&gt;对于单一语言的项目，你可以在项目根目录下的&lt;code&gt;content&lt;/code&gt;文件夹中管理内容。对于多语言项目，内容则处在特定语言的目录下，例如&lt;code&gt;content/zh/&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;内容根目录的内容一般根据网站模块及其结构进行分类，例如我们一般将博客文章储存于&lt;code&gt;content/posts/&lt;/code&gt;中。Eureka 目前的提供的主要类型为：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;文章页&lt;/li&gt;
+&lt;li&gt;文档页&lt;/li&gt;
+&lt;li&gt;作者页&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;新建文章页&#34;&gt;新建文章页&lt;/h3&gt;
+&lt;p&gt;文章内容为 Eureka 默认的文章结构，因此新建文章页时不需指定其类型。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;hugo new posts/&amp;lt;your_post.md&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;以上命令可以在&lt;code&gt;content/posts/&lt;/code&gt;文件夹中新建一个包含默认 Front Matter 的 Markdown 文件。&lt;/p&gt;
+&lt;h3 id=&#34;新建文档页&#34;&gt;新建文档页&lt;/h3&gt;
+&lt;p&gt;新建文档页时需指定其类型为&lt;code&gt;docs&lt;/code&gt;。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;hugo new -k docs docs/&amp;lt;your_doc&amp;gt;/&amp;lt;your_page.md&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;以上命令可以在&lt;code&gt;content/docs/&amp;lt;your_doc&amp;gt;/&lt;/code&gt;文件夹中新建一个包含默认文档内容的 Markdown 文件。&lt;/p&gt;
+&lt;p&gt;如果你此前没有创建过文档类型的内容，你需要先生成文档列表：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;pre&gt;&lt;code&gt;到目前为止，如果你使用了Hugo Modules安装主题，该命令无法正确创建文件夹。你需要手动将[docs](https://github.com/wangchucheng/hugo-eureka/tree/master/archetypes/docs)文件夹复制到你的`content`文件夹中。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;多版本文档&#34;&gt;多版本文档&lt;/h3&gt;
+&lt;p&gt;Eureka 支持多版本文档。你只需将历史版本全部内容复制到名称为版本号的子文件夹下即可。版本号需遵循
+&lt;a href=&#34;https://semver.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;语义化版本&lt;/a&gt;，版本号最前是否包含&lt;code&gt;v&lt;/code&gt;均可以被正常识别。&lt;/p&gt;
+&lt;p&gt;以如下目录结构为例：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;content
+├── docs
+│      ├── doc-1
+│      │      ├── content1.md
+│      │      ├── content2.md
+│      │      ├── 1.0.0
+│      │      │      ├── content1.md
+│      │      │      ├── content2.md
+│      │      │      └── _index.md
+│      │      └── _index.md
+│      └── ...
+└── ...
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;如果你想创建&lt;code&gt;1.0.0&lt;/code&gt;版本的文档，你只需将所有内容移至以&lt;code&gt;1.0.0&lt;/code&gt;命名的文件夹中即可。&lt;/p&gt;
+&lt;h3 id=&#34;新建作者页&#34;&gt;新建作者页&lt;/h3&gt;
+&lt;p&gt;新建作者页时需指定其类型为&lt;code&gt;authors&lt;/code&gt;。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;hugo new -k authors authors/&amp;lt;your_author&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;以上命令可以在&lt;code&gt;content/authors/&lt;/code&gt;文件夹中新建一个包含默认作者内容的文件夹。&lt;/p&gt;
+&lt;h2 id=&#34;文件结构&#34;&gt;文件结构&lt;/h2&gt;
+&lt;p&gt;Hugo 的内容文件主要由两部分组成，文件最前部的 Front Matter 及之后的正文部分。Front Matter 可以使用 toml，yaml 或 json 形式。正文部分则遵循 Markdown 语法。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;---
+title: Hello World
+description:
+toc: true
+authors: []
+tags: []
+categories: []
+series: []
+---
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;以上为一个基本的 Front Matter 的样式。你可以通过其设置各类属性。&lt;/p&gt;
+&lt;p&gt;如果你需要了解 Hugo 预定义的 Front Matter 或更多关于 Front Matter 的内容，可以参考 Hugo 的
+&lt;a href=&#34;https://gohugo.io/content-management/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;相关文档&lt;/a&gt;。&lt;/p&gt;
+&lt;h2 id=&#34;front-matter&#34;&gt;Front Matter&lt;/h2&gt;
+&lt;h3 id=&#34;文章页参数&#34;&gt;文章页参数&lt;/h3&gt;
+&lt;p&gt;文章页有以下常用 Front Matter 参数：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;title(string)&lt;/strong&gt;：文章标题。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;description(string)&lt;/strong&gt;：文章描述。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;toc(bool)&lt;/strong&gt;：是否激活目录，默认为&lt;code&gt;false&lt;/code&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;authors(array)&lt;/strong&gt;：文章作者，名称应于与&lt;code&gt;content/authors/&lt;/code&gt;内的内容相符。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;tags(array)&lt;/strong&gt;：文章标签。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;categories(array)&lt;/strong&gt;：文章分类。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;series(array)&lt;/strong&gt;：文章系列。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;date(string)&lt;/strong&gt;：文章发表时间，格式应满足
+&lt;a href=&#34;https://tools.ietf.org/html/rfc3339&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RFC 3339&lt;/a&gt;日期格式。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;lastmod(string)&lt;/strong&gt;：文章最后修改时间，格式应满足
+&lt;a href=&#34;https://tools.ietf.org/html/rfc3339&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RFC 3339&lt;/a&gt;日期格式。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;featuredVideo(string)&lt;/strong&gt;：文章精选视频，相关操作可参考
+&lt;a href=&#34;https://www.wangchucheng.com/zh/docs/hugo-eureka/content-management/#%E5%8A%A0%E8%BD%BD%E8%A7%86%E9%A2%91&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;加载视频&lt;/a&gt;，&lt;code&gt;featuredVideo&lt;/code&gt;与&lt;code&gt;featuredImage&lt;/code&gt;同时存在时，只会显示&lt;code&gt;featuredVideo&lt;/code&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;featuredImage(string)&lt;/strong&gt;：文章精选图片，相关操作可参考
+&lt;a href=&#34;https://www.wangchucheng.com/zh/docs/hugo-eureka/content-management/#%E5%8A%A0%E8%BD%BD%E5%9B%BE%E7%89%87&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;加载图片&lt;/a&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;draft(bool)&lt;/strong&gt;：是否为草稿，默认为&lt;code&gt;true&lt;/code&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;如果你需要了解 Hugo 预定义的 Front Matter，可以参考 Hugo 的
+&lt;a href=&#34;https://gohugo.io/content-management/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;相关文档&lt;/a&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;文档页参数&#34;&gt;文档页参数&lt;/h3&gt;
+&lt;p&gt;文档页有以下常用 Front Matter 参数：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;title(string)&lt;/strong&gt;：文档该页标题。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;description(string)&lt;/strong&gt;：文档该页描述。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;toc(bool)&lt;/strong&gt;：是否激活目录，默认为&lt;code&gt;false&lt;/code&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;authors(array)&lt;/strong&gt;：文档该页作者，名称应于与&lt;code&gt;content/authors/&lt;/code&gt;内的内容相符。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;date(string)&lt;/strong&gt;：文档该页发表时间，格式应满足
+&lt;a href=&#34;https://tools.ietf.org/html/rfc3339&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RFC 3339&lt;/a&gt;日期格式。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;lastmod(string)&lt;/strong&gt;：文档该页最后修改时间，格式应满足
+&lt;a href=&#34;https://tools.ietf.org/html/rfc3339&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RFC 3339&lt;/a&gt;日期格式。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;featuredImage(string)&lt;/strong&gt;：文档该页精选图片，相关操作可参考
+&lt;a href=&#34;https://www.wangchucheng.com/zh/docs/hugo-eureka/content-management/#%E5%8A%A0%E8%BD%BD%E5%9B%BE%E7%89%87&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;加载图片&lt;/a&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;draft(bool)&lt;/strong&gt;：是否为草稿，默认为&lt;code&gt;true&lt;/code&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;如果你需要了解 Hugo 预定义的 Front Matter，可以参考 Hugo 的
+&lt;a href=&#34;https://gohugo.io/content-management/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;相关文档&lt;/a&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;作者页参数&#34;&gt;作者页参数&lt;/h3&gt;
+&lt;p&gt;作者页有以下常用 Front Matter 参数：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;title(string)&lt;/strong&gt;：作者姓名。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;role(string)&lt;/strong&gt;：作者角色。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;bio(string)&lt;/strong&gt;：作者简要介绍。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;avatar(string)&lt;/strong&gt;：作者头像，相关操作可参考
+&lt;a href=&#34;https://www.wangchucheng.com/zh/docs/hugo-eureka/content-management/#%E5%8A%A0%E8%BD%BD%E5%9B%BE%E7%89%87&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;加载图片&lt;/a&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;organization(object)&lt;/strong&gt;：作者当前机构。
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;name(string)&lt;/strong&gt;：机构姓名。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;url(stirng)&lt;/strong&gt;：机构网址。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;social(array)&lt;/strong&gt;：社交媒体信息。
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;icon(string)&lt;/strong&gt;：社交媒体名称。可用的图标可以在
+&lt;a href=&#34;https://fontawesome.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Font Awesome&lt;/a&gt;上进行查询。查询后你可以获得类似&lt;code&gt;&amp;lt;i class=&amp;quot;fab fa-github&amp;quot;&amp;gt;&amp;lt;/i&amp;gt;&lt;/code&gt;的结果。icon 的值即为 github。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;iconPack(string)&lt;/strong&gt;：社交媒体包名。iconPack 的值为上一项中的 fab。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;url(string)&lt;/strong&gt;：社交媒体链接。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;如果你需要了解 Hugo 预定义的 Front Matter，可以参考 Hugo 的
+&lt;a href=&#34;https://gohugo.io/content-management/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;相关文档&lt;/a&gt;。&lt;/p&gt;
+&lt;h2 id=&#34;数学公式&#34;&gt;数学公式&lt;/h2&gt;
+&lt;p&gt;Eureka 支持使用 KaTeX 渲染数学公式。你可以在
+&lt;a href=&#34;https://www.wangchucheng.com/zh/docs/hugo-eureka/customization/#%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;定制 Eureka&lt;/a&gt;中找到配置 KaTeX 的方式。&lt;/p&gt;
+&lt;p&gt;你可以使用&lt;code&gt;$...$&lt;/code&gt;或&lt;code&gt;\(...\)&lt;/code&gt;输入行内公式，使用&lt;code&gt;&amp;amp;&amp;amp;...&amp;amp;&amp;amp;&lt;/code&gt;或&lt;code&gt;\[...\]&lt;/code&gt;输入行间公式。&lt;/p&gt;
+&lt;p&gt;在文档中输入时，由于部分 Markdown 语法会与 LaTeX 冲突（例如&lt;code&gt;_&lt;/code&gt;与&lt;code&gt;\&lt;/code&gt;），可能会导致 TeX 代码被 Markdown 渲染器处理，而显示错误的结果。Eureka 提供了两种解决方案。&lt;/p&gt;
+&lt;p&gt;第一种方案是你可以使用&lt;code&gt;\\&lt;/code&gt;代替&lt;code&gt;\&lt;/code&gt;以及&lt;code&gt;\\_&lt;/code&gt;代替&lt;code&gt;_&lt;/code&gt;解决此问题，但这意味着你需要修改你的 LaTeX 公式，导致了迁移的困难。&lt;/p&gt;
+&lt;p&gt;第二种方式则是使用 html 标签包裹公式块，此种方法只能针对行间公式。可将行间公式包裹在&lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt;内：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;div&amp;gt;your_displayed_equation&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;需要注意的是，在使用这种方法时，在&lt;code&gt;config.yaml&lt;/code&gt;配置文件中的&lt;code&gt;markup.goldmark.renderer&lt;/code&gt;的&lt;code&gt;unsafe&lt;/code&gt;属性应设为&lt;code&gt;true&lt;/code&gt;。&lt;/p&gt;
+&lt;h2 id=&#34;加载视频&#34;&gt;加载视频&lt;/h2&gt;
+&lt;p&gt;Eureka 中有一些需要加载视频的地方，例如精选视频。Eureka 提供了多种视频加载方式，这些方式都需要通过在 Front Matter 中指定路径来实现。视频链接支持本地视频以及外链。&lt;/p&gt;
+&lt;p&gt;对于本地存储的视频，你可以将视频存储于项目根目录下的&lt;code&gt;static&lt;/code&gt;文件夹，并在配置文件中填写其相对路径。例如将&lt;code&gt;example.mp4&lt;/code&gt;存储于&lt;code&gt;assets/videos/example.mp4&lt;/code&gt;，你只需将 Front Matter 中对应属性（例如 featuredVideo）设置为：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;featuredVideo: videos/example.mp4
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;对于视频网站的分享视频，你只需将 Front Matter 对应属性（例如 featuredVideo）的值设置为视频播放器 url 即可。需要注意的是，视频播放器 url 并非视频网站的网址，而是其嵌入代码（一般为 iframe）中&lt;code&gt;src&lt;/code&gt;属性的值。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;featuredVideo: https://example.com
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;加载图片&#34;&gt;加载图片&lt;/h2&gt;
+&lt;p&gt;Eureka 中有许多需要加载图片的地方，例如主页图片或作者头像等。Eureka 提供了非常丰富的图像加载方式：&lt;/p&gt;
+&lt;h3 id=&#34;在配置文件中添加图片&#34;&gt;在配置文件中添加图片&lt;/h3&gt;
+&lt;p&gt;我们需要在配置文件中的一些地方添加图片，例如主页图片。配置文件中的图片链接支持本地链接以及外链。&lt;/p&gt;
+&lt;p&gt;对于本地存储的图片，你可以选择将图片存储于项目根目录下的&lt;code&gt;assets&lt;/code&gt;或&lt;code&gt;static&lt;/code&gt;文件夹，并在配置文件中填写其相对路径。例如将&lt;code&gt;example.jpg&lt;/code&gt;存储于&lt;code&gt;assets/images/example.jpg&lt;/code&gt;，你只需将配置文件设置为：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;imgLeft: images/example.jpg
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;需要注意的是，&lt;code&gt;icon&lt;/code&gt;属性只能存储于&lt;code&gt;assets&lt;/code&gt;文件夹中。&lt;/p&gt;
+&lt;p&gt;对于外链图片，你只需将配置文件对应属性的值设置为图片 url 即可。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;imgLeft: https://example.com
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;在-front-matter-中添加图片&#34;&gt;在 Front Matter 中添加图片&lt;/h3&gt;
+&lt;p&gt;有时我们需要在内容的 Front Matter 中添加图片，例如作者头像。除了
+&lt;a href=&#34;https://www.wangchucheng.com/zh/docs/hugo-eureka/content-management/#%E5%9C%A8%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E4%B8%AD%E6%B7%BB%E5%8A%A0%E5%9B%BE%E7%89%87&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;在配置文件中添加图片&lt;/a&gt;提到的两种方式外，你还可以将图片以特定文件名命名并存储于内容的同一文件夹下。&lt;/p&gt;
+&lt;p&gt;以下为当前属性的命名方式：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;featuredImage&lt;/strong&gt;：featured.jpg&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;avatar&lt;/strong&gt;：avatar.jpg&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

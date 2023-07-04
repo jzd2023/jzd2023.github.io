@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>authors | 2023 | Jzd</title>
+    <link>/author/authors/</link>
+      <atom:link href="/author/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2023</copyright><lastBuildDate>Thu, 01 Jun 2023 10:21:42 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>authors</title>
+      <link>/author/authors/</link>
+    </image>
+    
+    <item>
+      <title>0601-My First Post</title>
+      <link>/post/my-first-post/</link>
+      <pubDate>Thu, 01 Jun 2023 10:21:42 +0800</pubDate>
+      <guid>/post/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello world!&lt;/h1&gt;
+&lt;h2 id=&#34;基础操作&#34;&gt;基础操作&lt;/h2&gt;
+&lt;h2 id=&#34;结构&#34;&gt;结构：&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;content/posts/&lt;/p&gt;
+&lt;p&gt;1.1 多语言：content/zh/posts/&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;content/doc&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;content/authors/&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;常用命令&#34;&gt;常用命令&lt;/h2&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;# posts
+hugo new posts/&amp;lt;your_post.md&amp;gt;
+
+# doc
+hugo new -k docs docs/&amp;lt;your_doc&amp;gt;/&amp;lt;your_page.md&amp;gt;
+
+# author
+hugo new -k authors authors/&amp;lt;your_author&amp;gt;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;blockquote&gt;
+&lt;p&gt;支持多版本文档，只需将历史版本全部内容复制到名称为版本号的子文件夹下即可。版本号需遵循语义化版本，版本号最前是否包含v均可以被正常识别。目录如下：&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;pre&gt;&lt;code&gt;目录结构
+  &amp;gt; content
+  ├── docs
+  │      ├── doc-1
+  │      │      ├── content1.md
+  │      │      ├── content2.md
+  │      │      ├── 1.0.0
+  │      │      │      ├── content1.md
+  │      │      │      ├── content2.md
+  │      │      │      └── _index.md
+  │      │      └── _index.md
+  │      └── ...
+  └── ...
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;主题设置&#34;&gt;主题设置：&lt;/h1&gt;
+&lt;p&gt;Themes1: 
+&lt;a href=&#34;https://www.wangchucheng.com/zh/docs/hugo-eureka/content-management/#%E5%8A%A0%E8%BD%BD%E5%9B%BE%E7%89%87&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hugo-eureka&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;1-front-matter&#34;&gt;1. Front Matter&lt;/h3&gt;
+&lt;h4 id=&#34;1-文章页参数&#34;&gt;1. 文章页参数&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;title(string)：文章标题。
+description(string)：文章描述。
+toc(bool)：是否激活目录，默认为false。
+authors(array)：文章作者，名称应于与content/authors/内的内容相符。
+tags(array)：文章标签。
+categories(array)：文章分类。
+series(array)：文章系列。
+date(string)：文章发表时间，格式应满足RFC 3339日期格式。
+lastmod(string)：文章最后修改时间，格式应满足RFC 3339日期格式。
+featuredVideo(string)：文章精选视频，相关操作可参考加载视频，featuredVideo与featuredImage同时存在时，只会显示featuredVideo。
+featuredImage(string)：文章精选图片，相关操作可参考加载图片。
+draft(bool)：是否为草稿，默认为true。
+如果你需要了解 Hugo 预定义的 Front Matter，可以参考 Hugo 的相关文档。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol&gt;
+&lt;li&gt;Docs参数&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;title(string)：文档该页标题。
+description(string)：文档该页描述。
+toc(bool)：是否激活目录，默认为false。
+authors(array)：文档该页作者，名称应于与content/authors/内的内容相符。
+date(string)：文档该页发表时间，格式应满足RFC 3339日期格式。
+lastmod(string)：文档该页最后修改时间，格式应满足RFC 3339日期格式。
+featuredImage(string)：文档该页精选图片，相关操作可参考加载图片。
+draft(bool)：是否为草稿，默认为true。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Authors&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;title(string)：作者姓名。
+role(string)：作者角色。
+bio(string)：作者简要介绍。
+avatar(string)：作者头像，相关操作可参考加载图片。
+organization(object)：作者当前机构。
+name(string)：机构姓名。
+url(stirng)：机构网址。
+social(array)：社交媒体信息。
+icon(string)：社交媒体名称。可用的图标可以在Font Awesome上进行查询。查询后你可以获得类似&amp;lt;i class=&amp;quot;fab fa-github&amp;quot;&amp;gt;&amp;lt;/i&amp;gt;的结果。icon 的值即为 github。
+iconPack(string)：社交媒体包名。iconPack 的值为上一项中的 fab。
+url(string)：社交媒体链接。
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&#34;2-数学公式&#34;&gt;2. 数学公式&lt;/h4&gt;
+&lt;p&gt;支持使用 KaTeX 渲染数学公式。你可以在定制 Eureka中找到配置 KaTeX 的方式。&lt;/p&gt;
+&lt;p&gt;你可以使用&lt;code&gt;$...$&lt;/code&gt;或&lt;code&gt;\(...\)&lt;/code&gt;输入行内公式，使用&lt;code&gt;&amp;amp;&amp;amp;...&amp;amp;&amp;amp;&lt;/code&gt;或&lt;code&gt;\[...\]&lt;/code&gt;输入行间公式。&lt;/p&gt;
+&lt;p&gt;在文档中输入时，由于部分 Markdown 语法会与 LaTeX 冲突（例如_与\），可能会导致 TeX 代码被 Markdown 渲染器处理，而显示错误的结果。Eureka 提供了两种解决方案。&lt;/p&gt;
+&lt;p&gt;第一种方案是你可以使用&lt;code&gt;\\代替\以及\\_代替_&lt;/code&gt;解决此问题，但这意味着你需要修改你的 LaTeX 公式，导致了迁移的困难。&lt;/p&gt;
+&lt;p&gt;第二种方式则是使用 &lt;code&gt;html 标签&lt;/code&gt;包裹公式块，此种方法只能针对行间公式。可将行间公式包裹在&lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt;内：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;&amp;lt;div&amp;gt;your_displayed_equation&amp;lt;/div&amp;gt;&lt;/code&gt;
+需要注意的是，在使用这种方法时，在&lt;code&gt;config.yaml&lt;/code&gt;配置文件中的&lt;code&gt;markup.goldmark.renderer&lt;/code&gt;的&lt;code&gt;unsafe&lt;/code&gt;属性应设为&lt;code&gt;true&lt;/code&gt;&lt;/p&gt;
+&lt;h4 id=&#34;关于图片和视频&#34;&gt;关于图片和视频&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;存于&lt;code&gt;assets&lt;/code&gt;文件夹下
+&lt;code&gt;assets/images/xxx.jpg/png&lt;/code&gt;
+&lt;code&gt;assets/videos/xxx.mp4&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;对应在fontmatter设置：
+images:
+&lt;code&gt;featuredVideo: videos/example.mp4&lt;/code&gt; OR &lt;code&gt;featuredVideo: https://example.com&lt;/code&gt;
+videos:
+&lt;code&gt;assets/videos/xxx.mp4&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;若来自外链：
+image11: &lt;code&gt;url&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在 Front Matter 中添加图片
+有时我们需要在内容的 Front Matter 中添加图片，例如作者头像。除了在配置文件中添加图片提到的两种方式外，你还可以将图片以特定文件名命名并存储于内容的同一文件夹下。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;以下为当前属性的命名方式：
+featuredImage：featured.jpg
+avatar：avatar.jpg&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
