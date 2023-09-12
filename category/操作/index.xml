@@ -5,34 +5,12 @@
     <link>/category/%E6%93%8D%E4%BD%9C/</link>
       <atom:link href="/category/%E6%93%8D%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
     <description>操作</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2023</copyright><lastBuildDate>Wed, 14 Jun 2023 16:22:36 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2023</copyright><lastBuildDate>Mon, 05 Jun 2023 11:39:42 +0800</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>操作</title>
       <link>/category/%E6%93%8D%E4%BD%9C/</link>
     </image>
-    
-    <item>
-      <title>0614-常用命令</title>
-      <link>/post/0614-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link>
-      <pubDate>Wed, 14 Jun 2023 16:22:36 +0800</pubDate>
-      <guid>/post/0614-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid>
-      <description>&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;hugo # 生成public文件夹
-cd public
-git init
-git remote add origin git@github.com:jzd2023/jzd2023.github.io.git
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;先在根目录中输入&lt;code&gt;hugo&lt;/code&gt;，然后进入&lt;code&gt;public&lt;/code&gt;文件夹中，输入下面3条命令。&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git add .
-git commit -m &#39;init&#39;
-git push -f --set-upstream origin master
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;新建页面&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;hugo new posts/&amp;lt;name.md&amp;gt;
-
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
     
     <item>
       <title>0605_基础操作</title>

@@ -417,64 +417,6 @@
     </item>
     
     <item>
-      <title>0516_Hexo</title>
-      <link>/post/0516-hexo/</link>
-      <pubDate>Sat, 17 Jun 2023 15:33:09 +0800</pubDate>
-      <guid>/post/0516-hexo/</guid>
-      <description>&lt;p&gt;
-&lt;a href=&#34;https://jzd0409.github.io/2023/05/30/%E5%8D%9A%E5%AE%A2%E5%90%8D%E7%A7%B0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2023-05-30&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;博客名称httpsjzd0409githubio20230530e58d9ae5aea2e5908de7a7b0&#34;&gt;
-&lt;a href=&#34;https://jzd0409.github.io/2023/05/30/%E5%8D%9A%E5%AE%A2%E5%90%8D%E7%A7%B0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;博客名称&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://jzd0409.github.io/2023/05/30/hello-world/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2023-05-30&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;hello-mybloghttpsjzd0409githubio20230530hello-world&#34;&gt;
-&lt;a href=&#34;https://jzd0409.github.io/2023/05/30/hello-world/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hello Myblog!&lt;/a&gt;&lt;/h2&gt;
-&lt;h2 id=&#34;httpsjzd0409githubioe4b880e994aee68ea8e98081-一键推送一键推送&#34;&gt;
-&lt;a href=&#34;https://jzd0409.github.io/#%E4%B8%80%E9%94%AE%E6%8E%A8%E9%80%81&#34; title=&#34;一键推送&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;一键推送&lt;/h2&gt;
-&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;pre&gt;&lt;span&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span&gt;hexo cl &amp;amp;&amp;amp; hexo g &amp;amp;&amp;amp; hexo d&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;h2 id=&#34;httpsjzd0409githubioe6b7bbe58aa0e6a087e7adbee9a1b5e99da2-添加标签页面添加标签页面&#34;&gt;
-&lt;a href=&#34;https://jzd0409.github.io/#%E6%B7%BB%E5%8A%A0%E6%A0%87%E7%AD%BE%E9%A1%B5%E9%9D%A2&#34; title=&#34;添加标签页面&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;添加标签页面&lt;/h2&gt;
-&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;pre&gt;&lt;span&gt;1&lt;/span&gt;&lt;br&gt;&lt;span&gt;2&lt;/span&gt;&lt;br&gt;&lt;span&gt;3&lt;/span&gt;&lt;br&gt;&lt;span&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span&gt;hexo new page tag&lt;/span&gt;&lt;br&gt;&lt;span&gt;hexo new page category&lt;/span&gt;&lt;br&gt;&lt;span&gt;&lt;span&gt;cd&lt;/span&gt; &lt;span&gt;source&lt;/span&gt;/tag&lt;/span&gt;&lt;br&gt;&lt;span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;h2 id=&#34;httpsjzd0409githubioe585ace5bc8f-公式公式&#34;&gt;
-&lt;a href=&#34;https://jzd0409.github.io/#%E5%85%AC%E5%BC%8F&#34; title=&#34;公式&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;公式&lt;/h2&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;httpsjzd0409githubiotitle-mathjax-testdate-2019-07-05-21-27-59tags-mathjax-true-e58aa0e585a5e8bf99e4b8aae5a3b0e6988eefbc8ce8bf99e7af87e69687e7aba0e5b0b1e4bc9ae5bc80e590afmathjaxe6b8b2e69f93-title-mathjax-testdate-2019-07-05-212759tagsmathjax-true--加入这个声明这篇文章就会开启mathjax渲染title-mathjax-test&#34;&gt;
-&lt;a href=&#34;https://jzd0409.github.io/#title-MathJax-Testdate-2019-07-05-21-27-59tags-mathjax-true-%E5%8A%A0%E5%85%A5%E8%BF%99%E4%B8%AA%E5%A3%B0%E6%98%8E%EF%BC%8C%E8%BF%99%E7%AF%87%E6%96%87%E7%AB%A0%E5%B0%B1%E4%BC%9A%E5%BC%80%E5%90%AFmathjax%E6%B8%B2%E6%9F%93&#34; title=&#34;title: MathJax Testdate: 2019-07-05 21:27:59tags:mathjax: true # 加入这个声明，这篇文章就会开启mathjax渲染&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;title: MathJax Test&lt;/h2&gt;
-&lt;p&gt;date: 2019-07-05 21:27:59&lt;br&gt;
-tags:&lt;br&gt;
-mathjax: true # 加入这个声明，这篇文章就会开启mathjax渲染&lt;/p&gt;
-&lt;h2 id=&#34;httpsjzd0409githubioe59bbee78987-图片图片&#34;&gt;
-&lt;a href=&#34;https://jzd0409.github.io/#%E5%9B%BE%E7%89%87&#34; title=&#34;图片&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;图片&lt;/h2&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://jzd0409.github.io/picUrl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://jzd0409.github.io/picUrl&#34; alt=&#34;pic&#34;&gt;&lt;/a&gt;pic&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://jzd0409.github.io/path/to/image&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://jzd0409.github.io/path/to/image&#34; alt=&#34;alt text&#34; title=&#34;[width] [height] &#34;&gt;&lt;/a&gt;alt text&lt;/p&gt;
-&lt;h2 id=&#34;httpsjzd0409githubioquick-start-quick-startquick-start&#34;&gt;
-&lt;a href=&#34;https://jzd0409.github.io/#Quick-Start&#34; title=&#34;Quick Start&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;
-&lt;h3 id=&#34;httpsjzd0409githubiocreate-a-new-post-create-a-new-postcreate-a-new-post&#34;&gt;
-&lt;a href=&#34;https://jzd0409.github.io/#Create-a-new-post&#34; title=&#34;Create a new post&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;
-&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;pre&gt;&lt;span&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span&gt;$ hexo new &lt;span&gt;&#34;My New Post&#34;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;p&gt;More info: 
-&lt;a href=&#34;https://hexo.io/docs/writing.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Writing&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;httpsjzd0409githubiorun-server-run-serverrun-server&#34;&gt;
-&lt;a href=&#34;https://jzd0409.github.io/#Run-server&#34; title=&#34;Run server&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;Run server&lt;/h3&gt;
-&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;pre&gt;&lt;span&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;p&gt;More info: 
-&lt;a href=&#34;https://hexo.io/docs/server.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Server&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;httpsjzd0409githubiogenerate-static-files-generate-static-filesgenerate-static-files&#34;&gt;
-&lt;a href=&#34;https://jzd0409.github.io/#Generate-static-files&#34; title=&#34;Generate static files&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;
-&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;pre&gt;&lt;span&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;p&gt;More info: 
-&lt;a href=&#34;https://hexo.io/docs/generating.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Generating&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;httpsjzd0409githubiodeploy-to-remote-sites-deploy-to-remote-sitesdeploy-to-remote-sites&#34;&gt;
-&lt;a href=&#34;https://jzd0409.github.io/#Deploy-to-remote-sites&#34; title=&#34;Deploy to remote sites&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;
-&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;pre&gt;&lt;span&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;p&gt;More info: 
-&lt;a href=&#34;https://hexo.io/docs/one-command-deployment.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>0615-数字贸易下的数据跨境流动风险</title>
       <link>/post/0615-%E6%95%B0%E5%AD%97%E8%B4%B8%E6%98%93%E4%B8%8B%E7%9A%84%E6%95%B0%E6%8D%AE%E8%B7%A8%E5%A2%83%E6%B5%81%E5%8A%A8%E9%A3%8E%E9%99%A9/</link>
       <pubDate>Thu, 15 Jun 2023 20:01:01 +0800</pubDate>
@@ -1783,9 +1725,9 @@ Three
     
     <item>
       <title>中美股市信息交易比率的对比研究</title>
-      <link>/publication/01-commodity-copy/</link>
+      <link>/publication/01-%E4%BF%A1%E6%81%AF%E4%BA%A4%E6%98%93%E6%AF%94%E4%BE%8B/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/01-commodity-copy/</guid>
+      <guid>/publication/01-%E4%BF%A1%E6%81%AF%E4%BA%A4%E6%98%93%E6%AF%94%E4%BE%8B/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
