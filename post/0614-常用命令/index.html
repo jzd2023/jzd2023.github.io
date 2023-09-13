@@ -678,7 +678,7 @@
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    1 min read
+    4 min read
   </span>
   
 
@@ -726,6 +726,115 @@ git push -f --set-upstream origin master
 <pre><code class="language-bash">hugo new posts/&lt;name.md&gt;
 
 </code></pre>
+<h2 id="常用命令">常用命令</h2>
+<pre><code class="language-bash"># posts
+hugo new posts/&lt;your_post.md&gt;
+
+# doc
+hugo new -k docs docs/&lt;your_doc&gt;/&lt;your_page.md&gt;
+
+# author
+hugo new -k authors authors/&lt;your_author&gt;
+
+</code></pre>
+<blockquote>
+<p>支持多版本文档，只需将历史版本全部内容复制到名称为版本号的子文件夹下即可。版本号需遵循语义化版本，版本号最前是否包含v均可以被正常识别。目录如下：</p>
+</blockquote>
+<pre><code>目录结构
+  &gt; content
+  ├── docs
+  │      ├── doc-1
+  │      │      ├── content1.md
+  │      │      ├── content2.md
+  │      │      ├── 1.0.0
+  │      │      │      ├── content1.md
+  │      │      │      ├── content2.md
+  │      │      │      └── _index.md
+  │      │      └── _index.md
+  │      └── ...
+  └── ...
+</code></pre>
+<h1 id="主题设置">主题设置：</h1>
+<p>Themes1: 
+<a href="https://www.wangchucheng.com/zh/docs/hugo-eureka/content-management/#%E5%8A%A0%E8%BD%BD%E5%9B%BE%E7%89%87" target="_blank" rel="noopener">hugo-eureka</a></p>
+<h3 id="1-front-matter">1. Front Matter</h3>
+<h4 id="1-文章页参数">1. 文章页参数</h4>
+<pre><code>title(string)：文章标题。
+description(string)：文章描述。
+toc(bool)：是否激活目录，默认为false。
+authors(array)：文章作者，名称应于与content/authors/内的内容相符。
+tags(array)：文章标签。
+categories(array)：文章分类。
+series(array)：文章系列。
+date(string)：文章发表时间，格式应满足RFC 3339日期格式。
+lastmod(string)：文章最后修改时间，格式应满足RFC 3339日期格式。
+featuredVideo(string)：文章精选视频，相关操作可参考加载视频，featuredVideo与featuredImage同时存在时，只会显示featuredVideo。
+featuredImage(string)：文章精选图片，相关操作可参考加载图片。
+draft(bool)：是否为草稿，默认为true。
+如果你需要了解 Hugo 预定义的 Front Matter，可以参考 Hugo 的相关文档。
+</code></pre>
+<ol>
+<li>Docs参数</li>
+</ol>
+<pre><code>title(string)：文档该页标题。
+description(string)：文档该页描述。
+toc(bool)：是否激活目录，默认为false。
+authors(array)：文档该页作者，名称应于与content/authors/内的内容相符。
+date(string)：文档该页发表时间，格式应满足RFC 3339日期格式。
+lastmod(string)：文档该页最后修改时间，格式应满足RFC 3339日期格式。
+featuredImage(string)：文档该页精选图片，相关操作可参考加载图片。
+draft(bool)：是否为草稿，默认为true。
+</code></pre>
+<ol start="2">
+<li>Authors</li>
+</ol>
+<pre><code>title(string)：作者姓名。
+role(string)：作者角色。
+bio(string)：作者简要介绍。
+avatar(string)：作者头像，相关操作可参考加载图片。
+organization(object)：作者当前机构。
+name(string)：机构姓名。
+url(stirng)：机构网址。
+social(array)：社交媒体信息。
+icon(string)：社交媒体名称。可用的图标可以在Font Awesome上进行查询。查询后你可以获得类似&lt;i class=&quot;fab fa-github&quot;&gt;&lt;/i&gt;的结果。icon 的值即为 github。
+iconPack(string)：社交媒体包名。iconPack 的值为上一项中的 fab。
+url(string)：社交媒体链接。
+
+</code></pre>
+<h4 id="2-数学公式">2. 数学公式</h4>
+<p>支持使用 KaTeX 渲染数学公式。你可以在定制 Eureka中找到配置 KaTeX 的方式。</p>
+<p>你可以使用<code>$...$</code>或<code>\(...\)</code>输入行内公式，使用<code>&amp;&amp;...&amp;&amp;</code>或<code>\[...\]</code>输入行间公式。</p>
+<p>在文档中输入时，由于部分 Markdown 语法会与 LaTeX 冲突（例如_与\），可能会导致 TeX 代码被 Markdown 渲染器处理，而显示错误的结果。Eureka 提供了两种解决方案。</p>
+<p>第一种方案是你可以使用<code>\\代替\以及\\_代替_</code>解决此问题，但这意味着你需要修改你的 LaTeX 公式，导致了迁移的困难。</p>
+<p>第二种方式则是使用 <code>html 标签</code>包裹公式块，此种方法只能针对行间公式。可将行间公式包裹在<code>&lt;div&gt;</code>内：</p>
+<p><code>&lt;div&gt;your_displayed_equation&lt;/div&gt;</code>
+需要注意的是，在使用这种方法时，在<code>config.yaml</code>配置文件中的<code>markup.goldmark.renderer</code>的<code>unsafe</code>属性应设为<code>true</code></p>
+<h4 id="关于图片和视频">关于图片和视频</h4>
+<ol>
+<li>
+<p>存于<code>assets</code>文件夹下
+<code>assets/images/xxx.jpg/png</code>
+<code>assets/videos/xxx.mp4</code></p>
+</li>
+<li>
+<p>对应在fontmatter设置：
+images:
+<code>featuredVideo: videos/example.mp4</code> OR <code>featuredVideo: https://example.com</code>
+videos:
+<code>assets/videos/xxx.mp4</code></p>
+</li>
+<li>
+<p>若来自外链：
+image11: <code>url</code></p>
+</li>
+<li>
+<p>在 Front Matter 中添加图片
+有时我们需要在内容的 Front Matter 中添加图片，例如作者头像。除了在配置文件中添加图片提到的两种方式外，你还可以将图片以特定文件名命名并存储于内容的同一文件夹下。</p>
+</li>
+</ol>
+<p>以下为当前属性的命名方式：
+featuredImage：featured.jpg
+avatar：avatar.jpg</p>
 
               </div>
               

@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/courses/example02/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
     <loc>/notes/example01/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
@@ -22,12 +16,6 @@
   </url><url>
     <loc>/notes/example05/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/courses/example02/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/notes/example01/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
@@ -44,12 +32,6 @@
     <loc>/notes/example05/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/courses/example02/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
     <loc>/notes/example01/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
@@ -65,16 +47,10 @@
     <loc>/notes/example05/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
     <loc>/post/0618-%E4%BC%81%E4%B8%9A%E6%9D%A0%E6%9D%86/</loc>
+    <lastmod>2023-06-18T21:35:59+08:00</lastmod>
+  </url><url>
+    <loc>/</loc>
     <lastmod>2023-06-18T21:35:59+08:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
@@ -131,16 +107,10 @@
     <loc>/category/%E6%93%8D%E4%BD%9C/</loc>
     <lastmod>2023-06-05T11:39:42+08:00</lastmod>
   </url><url>
-    <loc>/post/my-first-post/</loc>
-    <lastmod>2023-06-01T22:52:56+08:00</lastmod>
+    <loc>/post/0524-%E6%B3%A8%E5%86%8C%E5%88%B6%E6%94%B9%E9%9D%A9%E8%83%8C%E6%99%AF/</loc>
+    <lastmod>2023-05-24T17:15:56+08:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2023-06-01T22:52:56+08:00</lastmod>
-  </url><url>
-    <loc>/author/authors/</loc>
-    <lastmod>2023-06-01T22:52:56+08:00</lastmod>
-  </url><url>
-    <loc>/post/0524-%E6%B3%A8%E5%86%8C%E5%88%B6%E6%94%B9%E9%9D%A9%E8%83%8C%E6%99%AF/</loc>
     <lastmod>2023-05-24T17:15:56+08:00</lastmod>
   </url><url>
     <loc>/author/%E5%A7%9C%E6%99%BA%E4%B8%B9-jiang-zhidan/</loc>
@@ -185,38 +155,14 @@
     <loc>/tag/%E9%A3%8E%E9%99%A9%E4%BC%A0%E6%9F%93/</loc>
     <lastmod>2022-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/diagram-support/</loc>
-    <lastmod>2021-03-31T13:11:22+08:00</lastmod>
-  </url><url>
     <loc>/author/example-author/</loc>
-    <lastmod>2021-03-31T13:11:22+08:00</lastmod>
+    <lastmod>2020-11-20T22:52:56+08:00</lastmod>
   </url><url>
     <loc>/post/math-support/</loc>
     <lastmod>2020-11-20T22:52:56+08:00</lastmod>
   </url><url>
-    <loc>/post/featured-image/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/image/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/category/themes/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
     <loc>/notes/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/markdown/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
@@ -226,12 +172,6 @@
   </url><url>
     <loc>/tag/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/eg2/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
@@ -250,24 +190,6 @@
   </url><url>
     <loc>/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/eg1/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/category/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/hamiltonian-monte-carlo/</loc>
   </url><url>
