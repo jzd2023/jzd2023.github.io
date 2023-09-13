@@ -5,46 +5,19 @@
     <loc>/notes/example01/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/notes/example02/example1/</loc>
+    <loc>/notes/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/notes/example03/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/notes/example04/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/notes/example05/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <loc>/notes/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/notes/example01/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/notes/example02/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/notes/example03/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/notes/example04/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/notes/example05/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/notes/example01/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/notes/example02/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/notes/example03/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/notes/example04/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/notes/example05/example2/</loc>
+    <loc>/notes/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
     <loc>/post/0618-%E4%BC%81%E4%B8%9A%E6%9D%A0%E6%9D%86/</loc>
@@ -182,13 +155,13 @@
     <loc>/tag/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/external-project/</loc>
+    <loc>/false_project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/internal-project/</loc>
+    <loc>/false_project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/</loc>
+    <loc>/false_project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/hamiltonian-monte-carlo/</loc>
@@ -198,6 +171,8 @@
     <loc>/publication/01-%E4%BF%A1%E6%81%AF%E4%BA%A4%E6%98%93%E6%AF%94%E4%BE%8B/</loc>
   </url><url>
     <loc>/author/%E5%88%98%E6%B4%8B/</loc>
+  </url><url>
+    <loc>/author/%E5%A7%9C%E6%99%BA%E4%B8%B9-zhidan-jiang/</loc>
   </url><url>
     <loc>/tag/%E5%B8%82%E5%9C%BA%E4%BF%A1%E6%81%AF%E6%B5%81/</loc>
   </url><url>
