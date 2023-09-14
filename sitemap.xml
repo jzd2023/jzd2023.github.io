@@ -155,13 +155,13 @@
     <loc>/tag/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/false_project/external-project/</loc>
+    <loc>/f_project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/false_project/</loc>
+    <loc>/f_project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/false_project/internal-project/</loc>
+    <loc>/f_project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/hamiltonian-monte-carlo/</loc>
